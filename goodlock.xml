@@ -8,14 +8,14 @@
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20200224032727818_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20200406015514971_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.05.1</versionName>
-		<versionCode>100501000</versionCode> 
-		<realContentSize>6914049</realContentSize>
+		<versionName>1.0.06.1</versionName>
+		<versionCode>100601000</versionCode> 
+		<realContentSize>7243721</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily. 
@@ -44,14 +44,14 @@ Storage: Theme Park uses an image file in your device to find dominant colors an
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20200318063818136_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20200406015637256_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.1.22.1</versionName>
-		<versionCode>212200001</versionCode> 
-		<realContentSize>5370970</realContentSize>
+		<versionName>2.1.22.6</versionName>
+		<versionCode>212200006</versionCode> 
+		<realContentSize>5365314</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[NotiStar is new notification management service
@@ -120,14 +120,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20200316080913837_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20200410060356044_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.0.00.0</versionName>
-		<versionCode>200000000</versionCode> 
-		<realContentSize>7508704</realContentSize>
+		<versionName>2.0.00.2</versionName>
+		<versionCode>200002000</versionCode> 
+		<realContentSize>7509378</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[5]]></averageRating><description><![CDATA[Create your own navigation bar.
@@ -303,7 +303,7 @@ Set up auto actions based on your situation.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20200318063826418_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20200407072409921_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -344,17 +344,17 @@ We are trying to make fresh experience for users.
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20200217053333678_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20200408084202171_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.1.11.0</versionName>
-		<versionCode>311100000</versionCode> 
-		<realContentSize>2581166</realContentSize>
+		<versionName>3.2.45.0</versionName>
+		<versionCode>324500000</versionCode> 
+		<realContentSize>2618980</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
 
 Small gesture handles will be displayed on left/right edge of screen. 
 By swiping this handles, configured actions will be executed.  below is default action.
@@ -404,14 +404,14 @@ Thank you.
 		<productID>000003032367</productID>
 		<productName><![CDATA[Task Changer]]></productName>
 		<appId>com.samsung.android.pluginrecents</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003032367/IconImage_20200316010226294_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003032367/IconImage_20200406015444004_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.0.00.15</versionName>
-		<versionCode>300015000</versionCode> 
-		<realContentSize>7406646</realContentSize>
+		<versionName>3.0.00.16</versionName>
+		<versionCode>300016000</versionCode> 
+		<realContentSize>7406915</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Task Changer with new style.
@@ -486,14 +486,14 @@ Features available since Android version 10
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20200224032702539_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20200406015543565_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.0.00.1</versionName>
-		<versionCode>200001000</versionCode> 
-		<realContentSize>19180082</realContentSize>
+		<versionName>2.0.00.2</versionName>
+		<versionCode>200002000</versionCode> 
+		<realContentSize>19249508</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Create new Lockscreen style
@@ -508,7 +508,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 - English
 - Simplified Chinese
 
-<LOCKSTAR:1003:3002>#1]]></description>
+<LOCKSTAR:1003:3004>#1]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
