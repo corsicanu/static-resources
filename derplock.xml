@@ -2,20 +2,51 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>15</endNum>
+	<endNum>16</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
-		<productID>000004623161</productID>
-		<productName><![CDATA[Theme Park]]></productName>
-		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20200224032727818_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<productID>000004772683</productID>
+		<productName><![CDATA[Home Up]]></productName>
+		<appId>com.samsung.android.app.homestar</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20200421055545677_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.05.1</versionName>
-		<versionCode>100501000</versionCode> 
-		<realContentSize>6914049</realContentSize>
+		<versionName>1.0.00.19</versionName>
+		<versionCode>100000019</versionCode> 
+		<realContentSize>12254553</realContentSize>
+		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
+
+HOME UP!
+
+HomeUp is the extension edition of OneUIHome.
+
+1. Use various layouts in home screen, apps and folder.
+2. Diversify background Blur effect.
+3. Page looping in Apps.
+4. Recommend folder names
+5. Customize folder popup styles and layouts
+6.  Restore home screen layout
+
+Thank you
+
+<HOME_HOMESTAR:3002>]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000004623161</productID>
+		<productName><![CDATA[Theme Park]]></productName>
+		<appId>com.samsung.android.themedesigner</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20200406015514971_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>Rs.</currencyUnit>
+		<price>0.0</price>
+		<discountPrice>0.0</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName>1.0.06.1</versionName>
+		<versionCode>100601000</versionCode> 
+		<realContentSize>7243721</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily. 
@@ -44,14 +75,14 @@ Storage: Theme Park uses an image file in your device to find dominant colors an
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20200224032715167_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20200427002644742_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.1.21.6</versionName>
-		<versionCode>212100006</versionCode> 
-		<realContentSize>5371234</realContentSize>
+		<versionName>2.1.22.9</versionName>
+		<versionCode>212200009</versionCode> 
+		<realContentSize>5365241</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[NotiStar is new notification management service
@@ -147,26 +178,26 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20191128123638607_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20200410060356044_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.00.16</versionName>
-		<versionCode>100016000</versionCode> 
-		<realContentSize>4551955</realContentSize>
+		<versionName>1.0.00.17</versionName>
+		<versionCode>100017000</versionCode> 
+		<realContentSize>4552048</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[5]]></averageRating><description><![CDATA[Create your own navigation bar.
 
 [Descriptions]
+  - You can show and hide the navigation bar.
+
   - You can change the color of the navigation bar.
 
   - You can add useful buttons to the navigation bar.
 
   - You can change the icon of the navigation bar to your favorite image.
-
-  - You can change the navigation bar according to the situation with Routines app.
 
 [Language]
 - English
@@ -174,14 +205,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 - Chinese
 
 [Version Code]
-<NAVSTAR:1001:2004>
+<NAVSTAR:1001:4000>
 #7]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20200224032637267_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20200414081851511_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -191,7 +222,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<realContentSize>5494099</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
 
 
 [Description]
@@ -216,7 +247,7 @@ Floating Notification
 - Chinese
 
 [Version Code]
-<MULTISTAR:1000:3011>
+<MULTISTAR:1000:3022>
 #6]]></description>
 		</appInfo>
 	<appInfo>
@@ -233,7 +264,7 @@ Floating Notification
 		<realContentSize>17995015</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Offers various Edge Lighting effects.
+		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Offers various Edge Lighting effects.
 
 [Description]
 - Support more effects.
@@ -249,14 +280,14 @@ Floating Notification
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20200214084320178_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20200316010055822_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.1.08</versionName>
-		<versionCode>110800000</versionCode> 
-		<realContentSize>1622254</realContentSize>
+		<versionName>1.1.09</versionName>
+		<versionCode>110900000</versionCode> 
+		<realContentSize>1622261</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
@@ -276,7 +307,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000003202866</productID>
 		<productName><![CDATA[Clockface]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20200224060700498_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20200310054432393_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -330,7 +361,7 @@ Set up auto actions based on your situation.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20200214084523064_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20200420074151406_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -371,17 +402,17 @@ We are trying to make fresh experience for users.
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20200217053333678_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20200423091402461_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.1.11.0</versionName>
-		<versionCode>311100000</versionCode> 
-		<realContentSize>2581166</realContentSize>
+		<versionName>3.2.47.0</versionName>
+		<versionCode>324700000</versionCode> 
+		<realContentSize>2619179</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
 
 Small gesture handles will be displayed on left/right edge of screen. 
 By swiping this handles, configured actions will be executed.  below is default action.
@@ -431,14 +462,14 @@ Thank you.
 		<productID>000003032367</productID>
 		<productName><![CDATA[Task Changer]]></productName>
 		<appId>com.samsung.android.pluginrecents</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003032367/IconImage_20200224224747612_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003032367/IconImage_20200415235658800_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.0.00.11</versionName>
-		<versionCode>300011000</versionCode> 
-		<realContentSize>7406459</realContentSize>
+		<versionName>3.0.00.16</versionName>
+		<versionCode>300016000</versionCode> 
+		<realContentSize>7406915</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Task Changer with new style.
@@ -459,17 +490,17 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[SoundAssistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20200224062423133_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20200316012040036_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.3.07.0</versionName>
-		<versionCode>330700000</versionCode> 
-		<realContentSize>10731584</realContentSize>
+		<versionName>3.3.08.0</versionName>
+		<versionCode>330800000</versionCode> 
+		<realContentSize>10833829</realContentSize>
 		<sellerName><![CDATA[Samsung Electronics Co., Ltd.]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
 
 The sound utility available on the galaxy series
 Provides various convenience functions related to audio
@@ -513,7 +544,7 @@ Features available since Android version 10
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20200224032702539_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20200413090820036_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -535,7 +566,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 - English
 - Simplified Chinese
 
-<LOCKSTAR:1003:3002>#1]]></description>
+<LOCKSTAR:1003:3004>#1]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
