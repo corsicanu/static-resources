@@ -128,14 +128,14 @@ Thank you
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20201030070457021_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20210120065602448_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.07.2</versionName>
-		<versionCode>100702000</versionCode> 
-		<realContentSize>8493346</realContentSize>
+		<versionName>1.0.08.2</versionName>
+		<versionCode>100802000</versionCode> 
+		<realContentSize>8993244</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
@@ -144,32 +144,45 @@ It extracts dominant colors from wallpaper and creates theme automatically based
 
 
 
-Main feature:
+Main feature
 
 ▣ Creating a theme from a background image
-  ■ The theme color is automatically determined from the background image.
-  ■ Long press the style to edit the color.
-  ■ You can edit both the icon color and the tray color.
-  ■ You can apply icon packs from the theme store.
-  ■ You can create a theme for dark mode in a theme.
-  ■ You can edit the colors of the keyboard.
+  ■ The theme color is automatically determined from the background image.
+  ■ You can change the colors of the style.
+  ■ The theme include colors for light mode theme and dark mode.
+  ■ You can edit the color of the icon or the color of the tray. (OneUI 2.0)
+  ■ You can apply icon packs downloaded from the theme store. (OneUI 2.5)
+  ■ You can change the color of the keyboard and key cap images. (OneUI 2.5)
+  ■ You can customize the quick panel as you wish. (OneUI 3.0)
 
-▣ Creating a theme for keyboard
-  ■ You can apply a keyboard theme separately from the main theme.
-  ■ You can easily create a keyboard theme by selecting a color and a style.
-  ■ You can customize keycaps and text colors.
+▣ Creating a theme for samsung keyboard (OneUI 2.5, with KeysCafe)
+  ■ You can apply a keyboard theme separately from the main theme.
+  ■ You can easily create a keyboard theme by selecting a basic color and style.
+  ■ You can customize keycaps and text colors to your own color or image.
+  ■ Templates for key cap is provided.
 
-▣ Deciding whether to apply the theme for each app
-  ■ You can decide whether to apply the theme for each app.
+▣ Deciding whether to apply the theme for each app (OneUI 2.5)
+  ■ You can decide whether to apply the theme for each app.
+
+▣ Creating a theme for quick panel (OneUI 3.0)
+  ■ You can apply the theme for quick panel separately from the main theme.
+  ■ You can easily create a theme for a quick panel by selecting a basic color and style.
+  ■ You can change the color of each part of the quick panel.
+
+▣ Tablet device support (OneUI 3.0)
+  ■ You can use the theme park on tablet devices with OneUI 3.0 or higher.
+  ■ Landscape mode is also supported on devices with sw700 or higher.
+
+
 
 Cautions
-  ■ Previews could be not matched with actual screen that the theme is applied.
-  ■ The applications supported by theme can be varied based on Theme Park version or OneUI version.
-  ■ Some features may not be available depending on the OneUI version.
+  ■ Previews could be not matched with actual screen that the theme is applied.
+  ■ The applications supported by theme can be varied based on version.
+  ■ Some features may not be available depending on the Android version.
 
 Permissions
-  To provide this service, following permission are needed.
-  ■ Storage: Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
+  To provide this service, following permission are needed.
+  ■ Storage: Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
 
 #GoodLockFriends #2]]></description>
 		</appInfo>
@@ -214,14 +227,14 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20201030070151318_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20210120080312661_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.1.00.7</versionName>
-		<versionCode>110000007</versionCode> 
-		<realContentSize>3150451</realContentSize>
+		<versionName>1.1.00.11</versionName>
+		<versionCode>110000011</versionCode> 
+		<realContentSize>3289143</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Got tired of mysterious vibration on your phone?
@@ -253,7 +266,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20201009130928148_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210120065756015_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -274,13 +287,15 @@ Press "Vibration history" in app's main screen and you get a list of application
 
   - You can change the icon of the navigation bar to your favorite image.
 
+   - If you are using gesture mode, you can change the hint background, handle length, and color.
+
 [Language]
 - English
 - Korean
 - Chinese
 
 [Version Code]
-<NAVSTAR:1001:4001>
+<NAVSTAR:1001:5001>
 #7]]></description>
 		</appInfo>
 	<appInfo>
@@ -423,14 +438,14 @@ We are trying to make fresh experience for users.
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20210112052020337_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20210120065453642_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.7.23.0</versionName>
-		<versionCode>372300000</versionCode> 
-		<realContentSize>2743036</realContentSize>
+		<versionName>4.1.19.0</versionName>
+		<versionCode>411900000</versionCode> 
+		<realContentSize>3819903</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
