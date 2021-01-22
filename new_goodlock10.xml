@@ -31,7 +31,7 @@
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName>2.0.00.3</versionName>
-		<versionCode>100366000</versionCode>
+		<versionCode>200003000</versionCode>
 		<realContentSize>69</realContentSize>
 		<sellerName><![CDATA[corsicanu]]></sellerName>
 		<categoryName><![CDATA[Support]]></categoryName>
@@ -73,14 +73,14 @@ Improve your typing skills while enjoying the keyboard game.
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005212031/IconImage_20201111060307827_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005212031/IconImage_20210121043147258_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.27</versionName>
-		<versionCode>102700000</versionCode> 
-		<realContentSize>42543521</realContentSize>
+		<versionName>1.1.07</versionName>
+		<versionCode>110700000</versionCode> 
+		<realContentSize>43705714</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create a moving wallpaper. 
@@ -224,14 +224,14 @@ Permissions
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210121035856086_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210122012331102_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.1.22.20</versionName>
-		<versionCode>212200020</versionCode> 
-		<realContentSize>5368671</realContentSize>
+		<versionName>3.1.19.1</versionName>
+		<versionCode>311900001</versionCode> 
+		<realContentSize>5228830</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[NotiStar is new notification management service
@@ -301,7 +301,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210120235414304_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210122012528140_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>

@@ -31,7 +31,7 @@
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName>2.0.00.3</versionName>
-		<versionCode>100366000</versionCode>
+		<versionCode>200003000</versionCode>
 		<realContentSize>69</realContentSize>
 		<sellerName><![CDATA[corsicanu]]></sellerName>
 		<categoryName><![CDATA[Support]]></categoryName>
@@ -135,7 +135,7 @@ Permissions
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210121035856086_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210122012331102_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -239,7 +239,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210120235414304_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210122012528140_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
