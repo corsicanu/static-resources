@@ -190,7 +190,7 @@ Permissions
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210122105107859_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210125031042698_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -222,7 +222,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 - Chinese
 
 [Version Code]
-<NOTISTAR:2001:3001>]]></description>
+<NOTISTAR:2001:4001>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003711875</productID>
@@ -589,7 +589,7 @@ Features available since Android version 10
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20201009130836370_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20210125031047348_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -611,7 +611,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 - English
 - Simplified Chinese
 
-<LOCKSTAR:1003:3005>#1]]></description>
+<LOCKSTAR:1003:3011>#1]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
