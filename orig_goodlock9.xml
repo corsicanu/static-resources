@@ -22,7 +22,7 @@
 
 HOME UP!
 
-HomeUp is the extension edition of OneUIHome.
+HomeUp is the extension edition of One UI Home.
 
 1. Use various layouts in home screen, apps and folder.
 2. Diversify background Blur effect.
@@ -33,7 +33,7 @@ HomeUp is the extension edition of OneUIHome.
 
 Thank you
 
-<HOME_HOMESTAR:3002>]]></description>
+<HOME_HOMESTAR:4002>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000004623161</productID>
@@ -253,22 +253,31 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
 
-
 [Description]
 Use Multi window without pausing
 - You can use several apps at the same time on the Multi window mode without stopping.
 
-Enable Multi window to all apps
+[One UI 3 (Android 11)]
+Immersive Mode 
+- Hide status bar and navigation bar in split screen view
+ 
+The app size stretch to camera hole 
+- Open the app by widening the camera area
+
+[One UI 2 (Android 10)]
+Enable Multi window to all apps 
 - All apps can be launched in a Popup window and split screen.
 
-Ghost Mode
+[One UI 1 (Android 9)]
+Ghost Mode 
 - When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
 
-Floating Notification
+Floating Notification 
 - You can receive notifications in the form of icons.
 
+
 [Target]
-- Android O os 8.1 SAMSUNG devices.
+- Android O os 8.1~  SAMSUNG devices.
 
 [Language]
 - English
