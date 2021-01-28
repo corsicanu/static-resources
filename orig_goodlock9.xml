@@ -336,7 +336,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000003202866</productID>
 		<productName><![CDATA[Clockface]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20201117090423832_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20210128053737631_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -348,15 +348,21 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Pick a clock style you like!
 
+[One UI 3]
+Create a clockface to your taste. 
+You can select the clockface style and decorate it adding text, images and GIF.
+Enjoy your own clockface on Lockscreen and AOD
+ - Create clockface : You can change the style and color of hour hand, minute hand, pin, backround and etc.
+ - Apply the clockface on Lockscreen and AOD
+
+
 [Target]
-- Android P os 9.0 SAMSUNG devices.
-- Android Q os 10 SAMSUNG devices.
+- Android 9/10/11 SAMSUNG devices.
 
 [Language]
 - Korean
 - English
 - Simplified Chinese
-
 #5]]></description>
 		</appInfo>
 	<appInfo>
