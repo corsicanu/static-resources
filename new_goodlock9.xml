@@ -56,7 +56,7 @@
 
 HOME UP!
 
-HomeUp is the extension edition of OneUIHome.
+HomeUp is the extension edition of One UI Home.
 
 1. Use various layouts in home screen, apps and folder.
 2. Diversify background Blur effect.
@@ -67,7 +67,7 @@ HomeUp is the extension edition of OneUIHome.
 
 Thank you
 
-<HOME_HOMESTAR:3002>]]></description>
+<HOME_HOMESTAR:4002>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000004623161</productID>
@@ -135,14 +135,14 @@ Permissions
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210122012331102_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210125031042698_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.1.22.20</versionName>
-		<versionCode>212200020</versionCode> 
-		<realContentSize>5368671</realContentSize>
+		<versionName>3.1.19.1</versionName>
+		<versionCode>311900001</versionCode> 
+		<realContentSize>5228830</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[NotiStar is new notification management service
@@ -167,7 +167,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 - Chinese
 
 [Version Code]
-<NOTISTAR:2001:3001>]]></description>
+<NOTISTAR:2001:4001>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003926817</productID>
@@ -239,7 +239,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210122012528140_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210127110329699_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -287,22 +287,31 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
 
-
 [Description]
 Use Multi window without pausing
 - You can use several apps at the same time on the Multi window mode without stopping.
 
-Enable Multi window to all apps
+[One UI 3 (Android 11)]
+Immersive Mode 
+- Hide status bar and navigation bar in split screen view
+ 
+The app size stretch to camera hole 
+- Open the app by widening the camera area
+
+[One UI 2 (Android 10)]
+Enable Multi window to all apps 
 - All apps can be launched in a Popup window and split screen.
 
-Ghost Mode
+[One UI 1 (Android 9)]
+Ghost Mode 
 - When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
 
-Floating Notification
+Floating Notification 
 - You can receive notifications in the form of icons.
 
+
 [Target]
-- Android O os 8.1 SAMSUNG devices.
+- Android O os 8.1~  SAMSUNG devices.
 
 [Language]
 - English
@@ -317,7 +326,7 @@ Floating Notification
 		<productID>000003039099</productID>
 		<productName><![CDATA[EdgeLighting +]]></productName>
 		<appId>com.samsung.android.edgelightingeffectunit</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003039099/IconImage_20201013065616927_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003039099/IconImage_20210126070313209_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -370,7 +379,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000003202866</productID>
 		<productName><![CDATA[Clockface]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20201117090423832_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20210128053737631_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -380,17 +389,23 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<realContentSize>9085581</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Pick a clock style you like!
+		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[One UI 3]
+Create a clockface to your taste. 
+You can select the clockface style and decorate it adding text, images and GIF.
+Enjoy your own clockface on Lockscreen and AOD
+ - Create clockface : You can change the style and color of hour hand, minute hand, pin, backround and etc.
+ - Apply the clockface on Lockscreen and AOD
+
 
 [Target]
-- Android P os 9.0 SAMSUNG devices.
-- Android Q os 10 SAMSUNG devices.
+- Android 9/10/11 SAMSUNG devices.
 
 [Language]
 - Korean
 - English
 - Simplified Chinese
-
 #5]]></description>
 		</appInfo>
 	<appInfo>
@@ -464,14 +479,14 @@ We are trying to make fresh experience for users.
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20210120065453642_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20210126093337185_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>4.1.19.0</versionName>
-		<versionCode>411900000</versionCode> 
-		<realContentSize>3819903</realContentSize>
+		<versionName>4.1.21.0</versionName>
+		<versionCode>412100000</versionCode> 
+		<realContentSize>3842032</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
@@ -552,7 +567,7 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[SoundAssistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20210118094938006_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20210125035102626_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -614,7 +629,7 @@ Features available since Android version 10
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20201009130836370_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20210127024206237_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -636,7 +651,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 - English
 - Simplified Chinese
 
-<LOCKSTAR:1003:3005>#1]]></description>
+<LOCKSTAR:1003:3011>#1]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
