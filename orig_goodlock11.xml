@@ -8,7 +8,7 @@
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005293390/IconImage_20210127062930171_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005293390/IconImage_20210129080141877_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -42,7 +42,7 @@ Improve your typing skills while enjoying the keyboard game.
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005212031/IconImage_20210121043147258_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005212031/IconImage_20210129073130251_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -71,7 +71,7 @@ You can add your favorite images and create a motion effect. Use the various par
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005198690/IconImage_20201009130957263_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005198690/IconImage_20210129080128336_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -100,7 +100,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210129001634713_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210129072330360_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -306,7 +306,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210129040102364_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210129072250320_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -350,7 +350,7 @@ Floating Notification
 - Chinese
 
 [Version Code]
-<MULTISTAR:1000:4010>
+<MULTISTAR:1000:4015>
 #6]]></description>
 		</appInfo>
 	<appInfo>
