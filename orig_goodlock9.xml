@@ -329,7 +329,7 @@ Floating Notification
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
-#GoodLockFriends
+
 
 The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
 
@@ -339,7 +339,9 @@ The following permissions are required for the app service. For optional permiss
 - Phone: Observation of device Status for restoration of touch Area after call
 
 If your system software version is lower than Android 6.0, please update the software to configure App permissions.
-Previously allowed permissions can be reset on Apps menu in device settings after software update.]]></description>
+Previously allowed permissions can be reset on Apps menu in device settings after software update.
+
+#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -420,11 +422,16 @@ Set up auto actions based on your situation.
 [Description]
 - Make simple status bar.
 
+
+<One UI 3>
+ ※ Theme in QuickPanel will be moved as one menu of ThemePark. Please wait until the offical release of Good Lock 2021( early Feb, 2021)
+
 [Detail Description]
 QuickStar is QuickPanel Star that SystemUI service app for early adopters.
 QuickStar is a plugin application for customizing of SAMSUNG SystemUI Quicksettings components.
 By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provide.
 We are trying to make fresh experience for users.
+
 
 [Target]
 - Android O os 8.0 SAMSUNG devices.
