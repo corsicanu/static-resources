@@ -42,7 +42,7 @@
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210129072330360_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210208103315822_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -67,7 +67,7 @@ HomeUp is the extension edition of One UI Home.
 
 Thank you
 
-<HOME_HOMESTAR:4002>]]></description>
+<HOME_HOMESTAR:3000:4002>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000004623161</productID>
@@ -145,7 +145,7 @@ Permissions
 		<realContentSize>5228830</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[NotiStar is new notification management service
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[NotiStar is new notification management service
 
 [Description]
 NotiStar is new notification management service
@@ -275,7 +275,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210129072250320_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210203110928425_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -352,18 +352,18 @@ Floating Notification
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20210201015128786_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20210202053450084_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.1.09</versionName>
-		<versionCode>110900000</versionCode> 
-		<realContentSize>1622261</realContentSize>
+		<versionName>1.1.15</versionName>
+		<versionCode>111500000</versionCode> 
+		<realContentSize>3939804</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
-#GoodLockFriends
+
 
 The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
 
@@ -373,7 +373,9 @@ The following permissions are required for the app service. For optional permiss
 - Phone: Observation of device Status for restoration of touch Area after call
 
 If your system software version is lower than Android 6.0, please update the software to configure App permissions.
-Previously allowed permissions can be reset on Apps menu in device settings after software update.]]></description>
+Previously allowed permissions can be reset on Apps menu in device settings after software update.
+
+#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -439,7 +441,7 @@ Set up auto actions based on your situation.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20210121024458769_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20210202053623653_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
@@ -454,11 +456,16 @@ Set up auto actions based on your situation.
 [Description]
 - Make simple status bar.
 
+
+<One UI 3>
+ ※ Theme in QuickPanel will be moved as one menu of ThemePark. Please wait until the offical release of Good Lock 2021( early Feb, 2021)
+
 [Detail Description]
 QuickStar is QuickPanel Star that SystemUI service app for early adopters.
 QuickStar is a plugin application for customizing of SAMSUNG SystemUI Quicksettings components.
 By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provide.
 We are trying to make fresh experience for users.
+
 
 [Target]
 - Android O os 8.0 SAMSUNG devices.
