@@ -13,7 +13,7 @@
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.01.17</versionName>
+		<versionName><![CDATA[1.0.01.17]]></versionName>
 		<versionCode>100100017</versionCode> 
 		<realContentSize>13127302</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -44,7 +44,7 @@ Thank you
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.08.2</versionName>
+		<versionName><![CDATA[1.0.08.2]]></versionName>
 		<versionCode>100802000</versionCode> 
 		<realContentSize>8993244</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -106,7 +106,7 @@ Permissions
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.1.19.1</versionName>
+		<versionName><![CDATA[3.1.19.1]]></versionName>
 		<versionCode>311900001</versionCode> 
 		<realContentSize>5228830</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -144,7 +144,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.18</versionName>
+		<versionName><![CDATA[1.0.18]]></versionName>
 		<versionCode>101800000</versionCode> 
 		<realContentSize>96227744</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -171,7 +171,7 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.1.00.11</versionName>
+		<versionName><![CDATA[1.1.00.11]]></versionName>
 		<versionCode>110000011</versionCode> 
 		<realContentSize>3289143</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -210,7 +210,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.00.17</versionName>
+		<versionName><![CDATA[1.0.00.17]]></versionName>
 		<versionCode>100017000</versionCode> 
 		<realContentSize>4552048</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -246,7 +246,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.5.02</versionName>
+		<versionName><![CDATA[2.5.02]]></versionName>
 		<versionCode>250200000</versionCode> 
 		<realContentSize>5494099</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -297,7 +297,7 @@ Floating Notification
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.0.28</versionName>
+		<versionName><![CDATA[1.0.28]]></versionName>
 		<versionCode>102800000</versionCode> 
 		<realContentSize>17996418</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -323,7 +323,7 @@ Floating Notification
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.1.15</versionName>
+		<versionName><![CDATA[1.1.15]]></versionName>
 		<versionCode>111500000</versionCode> 
 		<realContentSize>3939804</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -352,7 +352,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.2.09.0</versionName>
+		<versionName><![CDATA[1.2.09.0]]></versionName>
 		<versionCode>120900000</versionCode> 
 		<realContentSize>9085581</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -385,7 +385,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.3.00.4</versionName>
+		<versionName><![CDATA[1.3.00.4]]></versionName>
 		<versionCode>130001004</versionCode> 
 		<realContentSize>9030256</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -412,7 +412,7 @@ Set up auto actions based on your situation.
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.5.03.4</versionName>
+		<versionName><![CDATA[2.5.03.4]]></versionName>
 		<versionCode>250304000</versionCode> 
 		<realContentSize>3520520</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -457,7 +457,7 @@ We are trying to make fresh experience for users.
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>4.1.21.0</versionName>
+		<versionName><![CDATA[4.1.21.0]]></versionName>
 		<versionCode>412100000</versionCode> 
 		<realContentSize>3842032</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -517,7 +517,7 @@ Thank you.
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.0.00.23</versionName>
+		<versionName><![CDATA[3.0.00.23]]></versionName>
 		<versionCode>300023000</versionCode> 
 		<realContentSize>7412507</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -545,7 +545,7 @@ Thank you.
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>3.5.14.0</versionName>
+		<versionName><![CDATA[3.5.14.0]]></versionName>
 		<versionCode>351400000</versionCode> 
 		<realContentSize>10666270</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
@@ -607,7 +607,7 @@ Features available since Android version 10
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>1.1.00.12</versionName>
+		<versionName><![CDATA[1.1.00.12]]></versionName>
 		<versionCode>110012000</versionCode> 
 		<realContentSize>7371593</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
