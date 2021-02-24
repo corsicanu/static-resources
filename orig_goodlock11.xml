@@ -42,14 +42,14 @@ Improve your typing skills while enjoying the keyboard game.
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005212031/IconImage_20210129073130251_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005212031/IconImage_20210224005910675_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.07]]></versionName>
-		<versionCode>110700000</versionCode> 
-		<realContentSize>43705714</realContentSize>
+		<versionName><![CDATA[1.1.08]]></versionName>
+		<versionCode>110800000</versionCode> 
+		<realContentSize>50730027</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create a moving wallpaper. 
@@ -100,14 +100,14 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210209074645966_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210224005836843_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.0.00.27]]></versionName>
-		<versionCode>200000027</versionCode> 
-		<realContentSize>12759257</realContentSize>
+		<versionName><![CDATA[2.0.01.9]]></versionName>
+		<versionCode>200100009</versionCode> 
+		<realContentSize>17442456</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
@@ -121,7 +121,9 @@ HomeUp is the extension edition of One UI Home.
 3. Page looping in Apps.
 4. Recommend folder names
 5. Customize folder popup styles and layouts
-6.  Restore home screen layout
+6. Restore home screen layout
+7. Edit Share-via window
+8. Customize recent app window type
 
 Thank you
 
