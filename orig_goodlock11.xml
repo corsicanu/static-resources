@@ -100,14 +100,14 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210421050709079_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210423000616374_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.0.01.11]]></versionName>
-		<versionCode>200100011</versionCode> 
-		<realContentSize>17442539</realContentSize>
+		<versionName><![CDATA[2.0.01.19]]></versionName>
+		<versionCode>200100019</versionCode> 
+		<realContentSize>17768483</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
@@ -133,14 +133,14 @@ Thank you
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20210318234155546_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20210423001038852_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.08.5]]></versionName>
-		<versionCode>100805000</versionCode> 
-		<realContentSize>9000738</realContentSize>
+		<versionName><![CDATA[1.0.08.8]]></versionName>
+		<versionCode>100808000</versionCode> 
+		<realContentSize>9008199</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
@@ -195,14 +195,14 @@ Permissions
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210421050700171_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210423001023673_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.1.24.0]]></versionName>
-		<versionCode>312400000</versionCode> 
-		<realContentSize>5231052</realContentSize>
+		<versionName><![CDATA[3.1.30.0]]></versionName>
+		<versionCode>313000000</versionCode> 
+		<realContentSize>5239148</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[NotiStar is new notification management service
@@ -308,14 +308,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210421050734385_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210423000948535_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.3.06]]></versionName>
-		<versionCode>430600000</versionCode> 
-		<realContentSize>11808201</realContentSize>
+		<versionName><![CDATA[4.4.15]]></versionName>
+		<versionCode>441500000</versionCode> 
+		<realContentSize>11782129</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
@@ -388,14 +388,14 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000003202866</productID>
 		<productName><![CDATA[Clockface]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20210421050743994_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20210423001009782_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.2.22.0]]></versionName>
-		<versionCode>222200000</versionCode> 
-		<realContentSize>16924633</realContentSize>
+		<versionName><![CDATA[2.2.29.0]]></versionName>
+		<versionCode>222900000</versionCode> 
+		<realContentSize>79379871</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Pick a clock style you like!
