@@ -334,7 +334,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 - Chinese
 
 [Version Code]
-<NAVSTAR:1001:5001>
+<NAVSTAR:1001:5101>
 #7]]></description>
 		</appInfo>
 	<appInfo>
@@ -671,7 +671,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 - English
 - Simplified Chinese
 
-<LOCKSTAR:1003:3011>#1]]></description>
+<LOCKSTAR:1003:3100>#1]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
