@@ -23,7 +23,7 @@ Get additional features for your Bixby Routines.
  
  Features:
  ● Added conditions
-  - Unlock with fingerprint, Air action(Using S Pen), Button action
+  - Unlock with fingerprint, S Pen action(Using S Pen), Button action
  ● Added actions
   - Read text aloud, Arrow key, Touch macro
  ● Share (Share via QR code, Export routines, Import saved routines)
@@ -286,6 +286,8 @@ And it also reports :
  - toast
  - advertisement screen
  - sudden wake-up of your phone.
+ - changed setting value (Since One UI 2.0)
+ - muted media volume (Since One UI 3.1.1)
 
 [Target]
 - SAMSUNG devices with Android P OS(ver 9.0) or above.
