@@ -8,14 +8,14 @@
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005563964/IconImage_20210520234642829_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005563964/IconImage_20210629001909744_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.27]]></versionName>
-		<versionCode>102707000</versionCode> 
-		<realContentSize>5465234</realContentSize>
+		<versionName><![CDATA[1.0.28]]></versionName>
+		<versionCode>102807000</versionCode> 
+		<realContentSize>5469006</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Add advanced features to Bixby Routines so you can make more powerful routines.
@@ -23,7 +23,7 @@ Get additional features for your Bixby Routines.
  
  Features:
  ● Added conditions
-  - Unlock with fingerprint, Air action(Using S Pen), Button action
+  - Unlock with fingerprint, S Pen action(Using S Pen), Button action
  ● Added actions
   - Read text aloud, Arrow key, Touch macro
  ● Share (Share via QR code, Export routines, Import saved routines)
@@ -41,14 +41,14 @@ English, Korean, Chinese(TBD)
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005293390/IconImage_20210618022419183_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005293390/IconImage_20210629002820356_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.01.8]]></versionName>
-		<versionCode>100100008</versionCode> 
-		<realContentSize>18550016</realContentSize>
+		<versionName><![CDATA[1.0.02.7]]></versionName>
+		<versionCode>100200007</versionCode> 
+		<realContentSize>19749270</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
@@ -266,14 +266,14 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20210618022137388_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20210629002746901_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.00.11]]></versionName>
-		<versionCode>110000011</versionCode> 
-		<realContentSize>3289143</realContentSize>
+		<versionName><![CDATA[1.1.00.12]]></versionName>
+		<versionCode>110000012</versionCode> 
+		<realContentSize>4904618</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Got tired of mysterious vibration on your phone?
@@ -286,6 +286,8 @@ And it also reports :
  - toast
  - advertisement screen
  - sudden wake-up of your phone.
+ - changed setting value (Since One UI 2.0)
+ - muted media volume (Since One UI 3.1.1)
 
 [Target]
 - SAMSUNG devices with Android P OS(ver 9.0) or above.
@@ -499,14 +501,14 @@ We are trying to make fresh experience for users.
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20210520233857406_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20210629002851130_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.5.13.0]]></versionName>
-		<versionCode>451300000</versionCode> 
-		<realContentSize>3913251</realContentSize>
+		<versionName><![CDATA[4.6.15.0]]></versionName>
+		<versionCode>461500000</versionCode> 
+		<realContentSize>3922018</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
@@ -587,14 +589,14 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[SoundAssistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20210618022028917_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20210629003000800_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.6.07.2]]></versionName>
-		<versionCode>360700002</versionCode> 
-		<realContentSize>14255593</realContentSize>
+		<versionName><![CDATA[4.1.00.2]]></versionName>
+		<versionCode>410000002</versionCode> 
+		<realContentSize>14526447</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
