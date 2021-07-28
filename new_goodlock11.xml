@@ -30,13 +30,14 @@
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.1.00.1</versionName>
-		<versionCode>210001000</versionCode>
+		<versionName>2.1.00.2</versionName>
+		<versionCode>210002000</versionCode>
 		<realContentSize>69</realContentSize>
 		<sellerName><![CDATA[corsicanu]]></sellerName>
 		<categoryName><![CDATA[Support]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Patched with extra countries support
 #1]]></description>
+		</appInfo>
 	<appInfo>
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
