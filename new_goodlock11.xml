@@ -199,14 +199,14 @@ Thank you
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20210618022341773_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20210727083913840_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.08.17]]></versionName>
-		<versionCode>100817000</versionCode> 
-		<realContentSize>9299076</realContentSize>
+		<versionName><![CDATA[1.0.08.26]]></versionName>
+		<versionCode>100826000</versionCode> 
+		<realContentSize>9364076</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
@@ -299,14 +299,14 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20210629002746901_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20210727083839108_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.00.12]]></versionName>
-		<versionCode>110000012</versionCode> 
-		<realContentSize>4904618</realContentSize>
+		<versionName><![CDATA[1.1.00.13]]></versionName>
+		<versionCode>110000013</versionCode> 
+		<realContentSize>4898492</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Got tired of mysterious vibration on your phone?
@@ -340,14 +340,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210621045421926_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20210727100423559_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.1.03.31]]></versionName>
-		<versionCode>310331000</versionCode> 
-		<realContentSize>3549316</realContentSize>
+		<versionName><![CDATA[3.2.03.43]]></versionName>
+		<versionCode>320343000</versionCode> 
+		<realContentSize>3561580</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Create your own navigation bar.
@@ -376,14 +376,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210513044919084_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210727083729627_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.4.15]]></versionName>
-		<versionCode>441500000</versionCode> 
-		<realContentSize>11782129</realContentSize>
+		<versionName><![CDATA[4.5.09]]></versionName>
+		<versionCode>450900000</versionCode> 
+		<realContentSize>11786692</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
@@ -420,7 +420,7 @@ Floating Notification
 - Chinese
 
 [Version Code]
-<MULTISTAR:1000:4015>
+<MULTISTAR:1000:4016>
 #6]]></description>
 		</appInfo>
 	<appInfo>
@@ -622,14 +622,14 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[SoundAssistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20210629003000800_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20210727084057265_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>Rs.</currencyUnit>
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.1.00.2]]></versionName>
-		<versionCode>410000002</versionCode> 
-		<realContentSize>14526447</realContentSize>
+		<versionName><![CDATA[4.1.00.7]]></versionName>
+		<versionCode>410000007</versionCode> 
+		<realContentSize>15584355</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
