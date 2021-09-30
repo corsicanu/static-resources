@@ -14,6 +14,9 @@ jobs:
       max-parallel: 1
       matrix:
         include:
+          - device: "SM-G998F"
+            sdk: "31"
+            os: "12"
           - device: "SM-N985F"
             sdk: "30"
             os: "11"
