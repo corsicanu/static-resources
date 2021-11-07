@@ -30,8 +30,8 @@
 		<price>0.0</price>
 		<discountPrice>0.0</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName>2.1.01.2</versionName>
-		<versionCode>210102000</versionCode>
+		<versionName>2.1.02.2</versionName>
+		<versionCode>210202000</versionCode>
 		<realContentSize>69</realContentSize>
 		<sellerName><![CDATA[corsicanu]]></sellerName>
 		<categoryName><![CDATA[Support]]></categoryName>
@@ -43,9 +43,9 @@
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000005563964/IconImage_20210826100045033_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[1.0.30]]></versionName>
 		<versionCode>103007000</versionCode> 
@@ -76,16 +76,16 @@ English, Korean, Chinese(TBD)
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000005293390/IconImage_20211019045827858_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[1.0.00.25]]></versionName>
 		<versionCode>100000025</versionCode> 
 		<realContentSize>19150306</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
+		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
 
 You can increase the sizes of keys that you have trouble pressing and map your favorite emoticons to locations of your choosing.
 Add effects to your keyboard making it fun to type on, or change your keyboard’s color to one you like, or change your keyboard's touch sound.
@@ -106,13 +106,270 @@ Improve your typing skills while enjoying the keyboard game.
 #GoodLockFriends #0]]></description>
 		</appInfo>
 	<appInfo>
+		<productID>000003084407</productID>
+		<productName><![CDATA[QuickStar]]></productName>
+		<appId>com.samsung.android.qstuner</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20211105015312687_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[5.0.00.0]]></versionName>
+		<versionCode>500000000</versionCode> 
+		<realContentSize>11018532</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
+
+[Description]
+- Make a simple status bar.
+
+<One UI 3>
+ ※ Theme in QuickPanel will be moved as one menu of ThemePark. Please wait until the official release of Good Lock 2021( early Feb 2021)
+
+[Detail Description]
+QuickStar is QuickPanel Star a SystemUI service app for early adopters.
+QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
+By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
+We are trying to make a fresh experience for users.
+
+[Target]
+- Android 8 or higher devices
+
+[Language]
+- Korean
+- English
+- Chinese
+
+[Version Code]
+<SLIMINDICATOR:1003:5003>
+#2]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000004085658</productID>
+		<productName><![CDATA[NotiStar]]></productName>
+		<appId>com.samsung.systemui.notilus</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210907023306254_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[3.1.33.0]]></versionName>
+		<versionCode>313300000</versionCode> 
+		<realContentSize>5245782</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
+
+[Description]
+NotiStar is new notification management service
+By using this, You can manage many of the notifications you have received so far
+In addition, you can search for delivered notifications or categorize them as you like.
+All of these notifications are always there before you delete them.
+We are trying to make fresh experience for users.
+
+Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is created on the home screen
+
+[Target]
+- Android R OS 11.0 SAMSUNG devices.
+- Android Q OS 10.0 SAMSUNG devices.
+- Android P OS 9.0 SAMSUNG devices.
+
+[Language]
+- Korean
+- English
+- Chinese
+
+[Version Code]
+<NOTISTAR:2001:4001>]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003266196</productID>
+		<productName><![CDATA[MultiStar]]></productName>
+		<appId>com.samsung.android.multistar</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210910033326892_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[3.4.29]]></versionName>
+		<versionCode>342900000</versionCode> 
+		<realContentSize>11609028</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
+
+[Description]
+Use Multi window without pausing
+- You can use several apps at the same time on the Multi window mode without stopping.
+
+[One UI 3 (Android 11)]
+Immersive Mode 
+- Hide status bar and navigation bar in split screen view
+ 
+The app size stretch to camera hole 
+- Open the app by widening the camera area
+
+[One UI 2 (Android 10)]
+Enable Multi window to all apps 
+- All apps can be launched in a Popup window and split screen.
+
+[One UI 1 (Android 9)]
+Ghost Mode 
+- When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
+
+Floating Notification 
+- You can receive notifications in the form of icons.
+
+
+[Target]
+- Android O os 8.1~  SAMSUNG devices.
+
+[Language]
+- English
+- Korean
+- Chinese
+
+[Version Code]
+<MULTISTAR:1000:4017>
+#6]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003202866</productID>
+		<productName><![CDATA[Clockface]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20210811051509600_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.2.09.0]]></versionName>
+		<versionCode>120900000</versionCode> 
+		<realContentSize>9085581</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[One UI 3]
+Create a clockface to your taste. 
+You can select the clockface style and decorate it adding text, images and GIF.
+Enjoy your own clockface on Lockscreen and AOD
+ - Create clockface : You can change the style and color of hour hand, minute hand, pin, backround and etc.
+ - Apply the clockface on Lockscreen and AOD
+
+
+[Target]
+- Android 9/10/11 SAMSUNG devices.
+
+[Language]
+- Korean
+- English
+- Simplified Chinese
+#5]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003039099</productID>
+		<productName><![CDATA[EdgeLighting +]]></productName>
+		<appId>com.samsung.android.edgelightingeffectunit</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003039099/IconImage_20210618021949998_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.28]]></versionName>
+		<versionCode>102800000</versionCode> 
+		<realContentSize>17996418</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Offers various Edge Lighting effects.
+
+[Description]
+- Support more effects.
+- Support Boomerang,Celebrate, Fluid, Galaxy and Loop.
+
+[Language]
+- Korean
+- English
+
+#GoodLockFriends]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000004772683</productID>
+		<productName><![CDATA[Home Up]]></productName>
+		<appId>com.samsung.android.app.homestar</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210915080046082_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.01.17]]></versionName>
+		<versionCode>100100017</versionCode> 
+		<realContentSize>13127302</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
+
+HOME UP!
+
+HomeUp is the extension edition of One UI Home.
+
+1. Use various layouts in home screen, apps and folder.
+2. Diversify background Blur effect.
+3. Page looping in Apps.
+4. Recommend folder names
+5. Customize folder popup styles and layouts
+6. Restore home screen layout
+7. Edit Share-via window
+8. Customize recent app window type
+
+Thank you
+
+<HOME_HOMESTAR:3001:4002>]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003488383</productID>
+		<productName><![CDATA[NavStar]]></productName>
+		<appId>com.samsung.systemui.navillera</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20211014073658769_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.00.8]]></versionName>
+		<versionCode>200008000</versionCode> 
+		<realContentSize>7518953</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
+
+[Descriptions]
+  - You can show and hide the navigation bar.
+
+  - You can change the color of the navigation bar.
+
+  - You can add useful buttons to the navigation bar.
+
+  - You can change the icon of the navigation bar to your favorite image.
+
+   - If you are using gesture mode, you can change the hint background, handle length, and color.
+
+[Language]
+- English
+- Korean
+- Chinese
+
+[Version Code]
+<NAVSTAR:1001:5101>
+#7]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000005212031/IconImage_20211014094002965_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[1.1.16.1]]></versionName>
 		<versionCode>111601000</versionCode> 
@@ -135,75 +392,13 @@ You can add your favorite images and create a motion effect. Use the various par
 #wonderland #motionwallpaper #movingwallpaper #livewallpaper #GoodLockFriends #1]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000005198690</productID>
-		<productName><![CDATA[Pentastic]]></productName>
-		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005198690/IconImage_20210811051411054_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.11]]></versionName>
-		<versionCode>111100000</versionCode> 
-		<realContentSize>25799576</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Add your uniqueness to S pen with Pentastic!
-Switch to Air Command that is more convenient for you to use.
-You can set yourself the shape of the S Pen Hover Pointer, the sound made when you pull out or put in the pen.
-If you tap the screen twice while pressing S Pen button, you can run the preset features immediately.
-
-[Key features]
-Change the form of Air Command
-Change the shape of S Pen Hover Pointer
-Change the sound of S Pen
-Set double tap to shortcut by pressing S Pen
-
-* OneUI2.1 supports only 'Change the form of Air Command' feature.
-
-#Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000004772683</productID>
-		<productName><![CDATA[Home Up]]></productName>
-		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20210915080046082_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.01.17]]></versionName>
-		<versionCode>100100017</versionCode> 
-		<realContentSize>13127302</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
-
-HOME UP!
-
-HomeUp is the extension edition of One UI Home.
-
-1. Use various layouts in home screen, apps and folder.
-2. Diversify background Blur effect.
-3. Page looping in Apps.
-4. Recommend folder names
-5. Customize folder popup styles and layouts
-6. Restore home screen layout
-7. Edit Share-via window
-8. Customize recent app window type
-
-Thank you
-
-<HOME_HOMESTAR:3001:4002>]]></description>
-		</appInfo>
-	<appInfo>
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20211014085656022_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[1.0.08.33]]></versionName>
 		<versionCode>100833000</versionCode> 
@@ -259,51 +454,71 @@ Permissions
 #GoodLockFriends #2]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000004085658</productID>
-		<productName><![CDATA[NotiStar]]></productName>
-		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20210907023306254_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<productID>000005198690</productID>
+		<productName><![CDATA[Pentastic]]></productName>
+		<appId>com.samsung.android.pentastic</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005198690/IconImage_20210811051411054_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.1.33.0]]></versionName>
-		<versionCode>313300000</versionCode> 
-		<realContentSize>5245782</realContentSize>
+		<versionName><![CDATA[1.1.11]]></versionName>
+		<versionCode>111100000</versionCode> 
+		<realContentSize>25799576</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[NotiStar is new notification management service
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Add your uniqueness to S pen with Pentastic!
+Switch to Air Command that is more convenient for you to use.
+You can set yourself the shape of the S Pen Hover Pointer, the sound made when you pull out or put in the pen.
+If you tap the screen twice while pressing S Pen button, you can run the preset features immediately.
 
-[Description]
-NotiStar is new notification management service
-By using this, You can manage many of the notifications you have received so far
-In addition, you can search for delivered notifications or categorize them as you like.
-All of these notifications are always there before you delete them.
-We are trying to make fresh experience for users.
+[Key features]
+Change the form of Air Command
+Change the shape of S Pen Hover Pointer
+Change the sound of S Pen
+Set double tap to shortcut by pressing S Pen
 
-Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is created on the home screen
+* OneUI2.1 supports only 'Change the form of Air Command' feature.
 
-[Target]
-- Android R OS 11.0 SAMSUNG devices.
-- Android Q OS 10.0 SAMSUNG devices.
-- Android P OS 9.0 SAMSUNG devices.
+#Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003084395</productID>
+		<productName><![CDATA[EdgeTouch]]></productName>
+		<appId>com.samsung.android.app.edgetouch</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20210910033225524_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.18]]></versionName>
+		<versionCode>111800000</versionCode> 
+		<realContentSize>3350478</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
 
-[Language]
-- Korean
-- English
-- Chinese
 
-[Version Code]
-<NOTISTAR:2001:4001>]]></description>
+The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
+
+[Essential Access Rights]
+- Storage: Save image files to the device
+[Optional Access Rights]
+- Phone: Observation of device Status for restoration of touch Area after call
+
+If your system software version is lower than Android 6.0, please update the software to configure App permissions.
+Previously allowed permissions can be reset on Apps menu in device settings after software update.
+
+#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20210805013403502_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[1.1.00.13]]></versionName>
 		<versionCode>110000013</versionCode> 
@@ -338,235 +553,20 @@ Press "Vibration history" in app's main screen and you get a list of application
 #GoodLockFriends #3]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000003488383</productID>
-		<productName><![CDATA[NavStar]]></productName>
-		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20211014073658769_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.0.00.8]]></versionName>
-		<versionCode>200008000</versionCode> 
-		<realContentSize>7518953</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Create your own navigation bar.
-
-[Descriptions]
-  - You can show and hide the navigation bar.
-
-  - You can change the color of the navigation bar.
-
-  - You can add useful buttons to the navigation bar.
-
-  - You can change the icon of the navigation bar to your favorite image.
-
-   - If you are using gesture mode, you can change the hint background, handle length, and color.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Version Code]
-<NAVSTAR:1001:5101>
-#7]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003266196</productID>
-		<productName><![CDATA[MultiStar]]></productName>
-		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210910033326892_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.4.29]]></versionName>
-		<versionCode>342900000</versionCode> 
-		<realContentSize>11609028</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
-
-[Description]
-Use Multi window without pausing
-- You can use several apps at the same time on the Multi window mode without stopping.
-
-[One UI 3 (Android 11)]
-Immersive Mode 
-- Hide status bar and navigation bar in split screen view
- 
-The app size stretch to camera hole 
-- Open the app by widening the camera area
-
-[One UI 2 (Android 10)]
-Enable Multi window to all apps 
-- All apps can be launched in a Popup window and split screen.
-
-[One UI 1 (Android 9)]
-Ghost Mode 
-- When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
-
-Floating Notification 
-- You can receive notifications in the form of icons.
-
-
-[Target]
-- Android O os 8.1~  SAMSUNG devices.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Version Code]
-<MULTISTAR:1000:4017>
-#6]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003039099</productID>
-		<productName><![CDATA[EdgeLighting +]]></productName>
-		<appId>com.samsung.android.edgelightingeffectunit</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003039099/IconImage_20210618021949998_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.28]]></versionName>
-		<versionCode>102800000</versionCode> 
-		<realContentSize>17996418</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Offers various Edge Lighting effects.
-
-[Description]
-- Support more effects.
-- Support Boomerang,Celebrate, Fluid, Galaxy and Loop.
-
-[Language]
-- Korean
-- English
-
-#GoodLockFriends]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003084395</productID>
-		<productName><![CDATA[EdgeTouch]]></productName>
-		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20210910033225524_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.18]]></versionName>
-		<versionCode>111800000</versionCode> 
-		<realContentSize>3350478</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
-
-
-The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
-
-[Essential Access Rights]
-- Storage: Save image files to the device
-[Optional Access Rights]
-- Phone: Observation of device Status for restoration of touch Area after call
-
-If your system software version is lower than Android 6.0, please update the software to configure App permissions.
-Previously allowed permissions can be reset on Apps menu in device settings after software update.
-
-#GoodLockFriends]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003202866</productID>
-		<productName><![CDATA[Clockface]]></productName>
-		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20210811051509600_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.2.09.0]]></versionName>
-		<versionCode>120900000</versionCode> 
-		<realContentSize>9085581</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Pick a clock style you like!
-
-[One UI 3]
-Create a clockface to your taste. 
-You can select the clockface style and decorate it adding text, images and GIF.
-Enjoy your own clockface on Lockscreen and AOD
- - Create clockface : You can change the style and color of hour hand, minute hand, pin, backround and etc.
- - Apply the clockface on Lockscreen and AOD
-
-
-[Target]
-- Android 9/10/11 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Simplified Chinese
-#5]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003084407</productID>
-		<productName><![CDATA[QuickStar]]></productName>
-		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20211105015312687_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.0.00.0]]></versionName>
-		<versionCode>500000000</versionCode> 
-		<realContentSize>11018532</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Customize your special Quickpanel.
-
-[Description]
-- Make a simple status bar.
-
-<One UI 3>
- ※ Theme in QuickPanel will be moved as one menu of ThemePark. Please wait until the official release of Good Lock 2021( early Feb 2021)
-
-[Detail Description]
-QuickStar is QuickPanel Star a SystemUI service app for early adopters.
-QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
-By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
-We are trying to make a fresh experience for users.
-
-[Target]
-- Android 8 or higher devices
-
-[Language]
-- Korean
-- English
-- Chinese
-
-[Version Code]
-<SLIMINDICATOR:1003:5003>
-#2]]></description>
-		</appInfo>
-	<appInfo>
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20211103070229647_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[4.9.29.0]]></versionName>
 		<versionCode>492900000</versionCode> 
 		<realContentSize>4635707</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
 
 Small gesture handles will be displayed on left/right edge of screen. 
 By swiping this handles, configured actions will be executed.  below is default action.
@@ -617,9 +617,9 @@ Thank you.
 		<productName><![CDATA[Task Changer]]></productName>
 		<appId>com.samsung.android.pluginrecents</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000003032367/IconImage_20210423110817325_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[3.0.00.23]]></versionName>
 		<versionCode>300023000</versionCode> 
@@ -645,16 +645,16 @@ Thank you.
 		<productName><![CDATA[SoundAssistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20210929105715653_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[3.5.14.1]]></versionName>
 		<versionCode>351400001</versionCode> 
 		<realContentSize>10602021</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
 
 The sound utility available on the galaxy series
 Provides various convenience functions related to audio
@@ -707,16 +707,16 @@ Features available since Android version 10
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
 		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20210830035014577_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>Rs.</currencyUnit>
-		<price>0.0</price>
-		<discountPrice>0.0</discountPrice>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[2.0.00.6]]></versionName>
 		<versionCode>200006000</versionCode> 
 		<realContentSize>20176821</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create new Lockscreen style
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create new Lockscreen style
 
 You can decorate your lockscreen wallpapers more beautiful.
 
