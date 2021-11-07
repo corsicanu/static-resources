@@ -38,7 +38,7 @@ jobs:
         id: check
         run: |
           need_update=0
-          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=404&mnc=01&csc=INS&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent" > tmp-${{ matrix.os }}.xml
+          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=DBT&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE" > tmp-${{ matrix.os }}.xml
           if [ "$(diff tmp-${{ matrix.os }}.xml orig_goodlock${{ matrix.os }}.xml)" != "" ]; then need_update=1; fi
           echo ::set-output name=need_update::$need_update
 
@@ -48,7 +48,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git pull origin ${{github.ref}} --ff-only
-          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=404&mnc=01&csc=INS&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent" > orig_goodlock${{ matrix.os }}.xml
+          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=DBT&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE" > orig_goodlock${{ matrix.os }}.xml
           git add orig_goodlock${{ matrix.os }}.xml
           git commit -m "orig_goodlock${{ matrix.os }}: update of $(date +'%d-%m-%Y %H:%M')"
 
