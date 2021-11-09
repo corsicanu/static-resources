@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>15</endNum>
+	<endNum>16</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
@@ -199,6 +199,39 @@ Floating Notification
 [Version Code]
 <MULTISTAR:1000:4017>
 #6]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003202866</productID>
+		<productName><![CDATA[Clockface]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20211108230016796_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.2.31.2]]></versionName>
+		<versionCode>223102000</versionCode> 
+		<realContentSize>79381109</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[One UI 3]
+Create a clockface to your taste. 
+You can select the clockface style and decorate it by adding text, images and GIFs.
+Enjoy your own clockface on Lockscreen and AOD
+ - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
+ - Apply the clockface on Lockscreen and AOD
+
+
+[Target]
+- Android 9/10/11 SAMSUNG devices.
+
+[Language]
+- Korean
+- English
+- Simplified Chinese
+#5]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000004772683</productID>
