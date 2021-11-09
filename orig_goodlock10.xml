@@ -204,7 +204,7 @@ Floating Notification
 		<productID>000003202866</productID>
 		<productName><![CDATA[Clockface]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20210811051509600_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20211108230016796_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -218,9 +218,9 @@ Floating Notification
 
 [One UI 3]
 Create a clockface to your taste. 
-You can select the clockface style and decorate it adding text, images and GIF.
+You can select the clockface style and decorate it by adding text, images and GIFs.
 Enjoy your own clockface on Lockscreen and AOD
- - Create clockface : You can change the style and color of hour hand, minute hand, pin, backround and etc.
+ - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
  - Apply the clockface on Lockscreen and AOD
 
 
