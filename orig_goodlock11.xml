@@ -153,7 +153,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20210910033326892_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20211115091600392_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -197,7 +197,7 @@ Floating Notification
 - Chinese
 
 [Version Code]
-<MULTISTAR:1000:4017>
+<MULTISTAR:1000:5020>
 #6]]></description>
 		</appInfo>
 	<appInfo>
@@ -270,7 +270,7 @@ Thank you
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20211112022439877_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20211115082212737_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
