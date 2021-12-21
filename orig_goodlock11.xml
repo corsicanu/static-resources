@@ -443,8 +443,6 @@ The following permissions are required for the app service. For optional permiss
 
 [Essential Access Rights]
 - Storage: Save image files to the device
-[Optional Access Rights]
-- Phone: Observation of device Status for restoration of touch Area after call
 
 If your system software version is lower than Android 6.0, please update the software to configure App permissions.
 Previously allowed permissions can be reset on Apps menu in device settings after software update.
