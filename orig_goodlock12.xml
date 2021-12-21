@@ -426,7 +426,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20210910033225524_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084395/IconImage_20211221051111880_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -443,8 +443,6 @@ The following permissions are required for the app service. For optional permiss
 
 [Essential Access Rights]
 - Storage: Save image files to the device
-[Optional Access Rights]
-- Phone: Observation of device Status for restoration of touch Area after call
 
 If your system software version is lower than Android 6.0, please update the software to configure App permissions.
 Previously allowed permissions can be reset on Apps menu in device settings after software update.
