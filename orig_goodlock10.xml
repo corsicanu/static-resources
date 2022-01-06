@@ -32,6 +32,10 @@ Get additional features for your Bixby Routines.
 Supported languages:
 English, Korean, Chinese(TBD)
  
+[Optional permission]
+- Camera (Optional)
+  : Accesses the Camera to share routines by scanning QR codes.
+
 * Please install Android OS 11 and OneUI3.1 or later for a pleasant experience while using Routines +.
 * Feature availability may vary by device model/OS version.
 
@@ -145,6 +149,10 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 - Korean
 - English
 - Chinese
+
+[Optional permission]
+- Storage (Optional)
+  : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
 
 [Version Code]
 <NOTISTAR:2001:5001>]]></description>
@@ -288,6 +296,10 @@ HomeUp is the extension edition of One UI Home.
 7. Edit Share-via window
 8. Customize recent app window type
 
+[Required permission]
+- Storage (Required)
+  : Access to Storage is required to back up the preview screen and layout.
+
 Thank you
 
 <HOME_HOMESTAR:3001:5002>]]></description>
@@ -323,6 +335,10 @@ Thank you
 - English
 - Korean
 - Chinese
+
+[Required permission]
+-  Storage (Required)
+  : The navigation bar images and user settings are saved.
 
 [Version Code]
 <NAVSTAR:1001:6001>
@@ -696,6 +712,12 @@ You can decorate your lockscreen wallpapers more beautiful.
 - Korean
 - English
 - Simplified Chinese
+
+[Required permissions]
+1. Storage (Required)
+  : Access to Storage is required to show the wallpaper on the preview screen.
+2.  Contacts (Required)
+  : Access to Storage is required to show the Contacts information location on the preview screen.
 
 <LOCKSTAR:1003:3100>#1]]></description>
 		</appInfo>
