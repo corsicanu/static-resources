@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
@@ -442,6 +442,38 @@ Set double tap to shortcut by pressing S Pen
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
 		</appInfo>
 	<appInfo>
+		<productID>000003926817</productID>
+		<productName><![CDATA[Nice Shot]]></productName>
+		<appId>com.samsung.android.app.captureplugin</appId>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003926817/IconImage_20220222093327755_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.06]]></versionName>
+		<versionCode>200600000</versionCode> 
+		<realContentSize>13632446</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[[One UI 4]
+Upgrade the convenience of screen capture and screen recording functions.
+(※ Samsung capture v4.9.50 or higher can be supported )
+
+[Before Q os]
+Provides a variety of screenshot options.
+(Some functions are available only on smart capture support devices.)
+Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
+- Save Format: Change the screen shot format to PNG or JPG.
+- Automatic removal of system UI: Remove indicator and navigation bar and save.
+- #Tag: We recommend Tag for easy classification after smart capture.
+- Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
+- Screen Recording: Provides screen recording function.
+
+* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.
+
+<NICESHOT:1001>]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
@@ -573,14 +605,14 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[SoundAssistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20220125094559733_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20220222102306974_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.1.06.1]]></versionName>
-		<versionCode>410600001</versionCode> 
-		<realContentSize>19556798</realContentSize>
+		<versionName><![CDATA[4.2.01.2]]></versionName>
+		<versionCode>420100002</versionCode> 
+		<realContentSize>21068184</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
