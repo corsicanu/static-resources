@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>18</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>691</productID>
@@ -42,7 +42,7 @@
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20211217044356999_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003084407/IconImage_20220222004113345_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -82,7 +82,7 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20220125092620531_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004085658/IconImage_20220211073404757_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -124,7 +124,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20220125092354989_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003266196/IconImage_20220214035030720_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -175,7 +175,7 @@ Floating Notification
 		<productID>000003202866</productID>
 		<productName><![CDATA[Clockface]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20220125090839646_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003202866/IconImage_20220222003229030_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -186,6 +186,9 @@ Floating Notification
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 4.1]
+Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
 
 [One UI 3]
 Create a clockface to your taste. 
@@ -234,7 +237,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20220125093055679_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20220222004140517_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -271,7 +274,7 @@ Thank you
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20220125092511933_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003488383/IconImage_20220222000751817_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -338,14 +341,14 @@ Set up auto actions based on your situation.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20220125093727644_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004623161/IconImage_20220221235740795_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.09.10]]></versionName>
-		<versionCode>100910000</versionCode> 
-		<realContentSize>12766682</realContentSize>
+		<versionName><![CDATA[1.0.09.23]]></versionName>
+		<versionCode>100923000</versionCode> 
+		<realContentSize>13760921</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
@@ -400,7 +403,7 @@ Permissions
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003926817/IconImage_20201009130932427_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003926817/IconImage_20220222093327755_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -410,7 +413,12 @@ Permissions
 		<realContentSize>96227744</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[Provides a variety of screenshot options.
+		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[[One UI 4]
+Upgrade the convenience of screen capture and screen recording functions.
+(※ Samsung capture v4.9.50 or higher can be supported )
+
+[Before Q os]
+Provides a variety of screenshot options.
 (Some functions are available only on smart capture support devices.)
 Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
 - Save Format: Change the screen shot format to PNG or JPG.
@@ -454,7 +462,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20220125093843192_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003711875/IconImage_20220211073315641_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -495,14 +503,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20220125094228713_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003036952/IconImage_20220222000113676_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.9.41.0]]></versionName>
-		<versionCode>494100000</versionCode> 
-		<realContentSize>4642038</realContentSize>
+		<versionName><![CDATA[5.1.19.0]]></versionName>
+		<versionCode>511900000</versionCode> 
+		<realContentSize>4870492</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
@@ -588,7 +596,7 @@ Task Changer is provided as a submenu of Home Up after One UI 3. (Home Up > Task
 		<productID>000003206291</productID>
 		<productName><![CDATA[SoundAssistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20220125094559733_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003206291/IconImage_20220222102306974_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -650,7 +658,7 @@ Features available since Android version 10
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20220125090200635_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003002072/IconImage_20220221235913914_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
