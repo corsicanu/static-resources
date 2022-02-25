@@ -45,7 +45,7 @@ English, Korean, Chinese(TBD)
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000005293390/IconImage_20220211073849238_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000005293390/IconImage_20220225061251450_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -60,10 +60,18 @@ English, Korean, Chinese(TBD)
 You can increase the sizes of keys that you have trouble pressing and map your favorite emoticons to locations of your choosing.
 Add effects to your keyboard making it fun to type on, or change your keyboard’s color to one you like, or change your keyboard's touch sound.
 Improve your typing skills while enjoying the keyboard game.
+You can edit and save the photos you want, make them into stickers, and use them on the Samsung keyboard.
+Some advanced options for Samsung keyboards are provided.
 
 [Key Features]
-■ OneUI3.0
-- Changing keyboard touch sound
+■ One UI 4.1
+- My Sticker
+Keys Cafe launches my own sticker. Make images from Gallery into a unique sticker and express your meanings~
+※ Samsung Keyboard v5.4.65.0 or later is supported
+
+■ One UI 4.0
+- Keyboard advanced settings
+Provides advanced functions related to Samsung Keyboard.
 
 ■ OneUI2.5
 - Changing the sizes of keys: You can adjust the heights and widths of keys.
