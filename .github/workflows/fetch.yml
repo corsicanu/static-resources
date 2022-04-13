@@ -1,8 +1,9 @@
 name: Check for goodlock updates
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */12 * * *"
   push:
 
 jobs:
