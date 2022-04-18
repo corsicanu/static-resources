@@ -287,7 +287,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20220413044633140_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000004772683/IconImage_20220418105249151_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -315,8 +315,6 @@ HomeUp is the extension edition of One UI Home.
 [Required permission]
 - Storage (Required)
   : Access to Storage is required to back up the preview screen and layout.
-
-Thank you
 
 <HOME_HOMESTAR:3001:5002>]]></description>
 		</appInfo>
