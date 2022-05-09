@@ -1,10 +1,12 @@
 name: Google clang-linux prebuilts mirror
 
 on:
+  schedule:
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 jobs:
-  mirror:
+  clang-mirror:
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[ci skip]')"
 
@@ -14,9 +16,9 @@ jobs:
         env:
           TOKEN: ${{ secrets.TOKEN }}
         run: |
-          git clone --bare https://github.com/corsicanu/8895-bootloaders_and_modems
+          git clone --bare https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
           echo ${TOKEN} > gh_token
           gh auth login --with-token < gh_token
-          cd 8895-bootloaders_and_modems.git
+          cd linux-x86.git
           mirror_repo="https://${TOKEN}@github.com/corsicanu/clang_linux-x86.git"
           git push --all -f ${mirror_repo} || true
