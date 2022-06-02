@@ -182,7 +182,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000003039099</productID>
 		<productName><![CDATA[EdgeLighting +]]></productName>
 		<appId>com.samsung.android.edgelightingeffectunit</appId>
-		<iconImgURL>http://img.samsungapps.com/productNew/000003039099/IconImage_20210618021949998_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>http://img.samsungapps.com/productNew/000003039099/IconImage_20220602091219395_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -194,6 +194,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Offers various Edge Lighting effects.
 
+※ Supported in Android Q OS or lower Samsung devices
 [Description]
 - Support more effects.
 - Support Boomerang,Celebrate, Fluid, Galaxy and Loop.
