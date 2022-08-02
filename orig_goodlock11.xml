@@ -45,7 +45,7 @@ English, Korean, Chinese(TBD)
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20220617073152152_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20220802050429739_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -64,6 +64,10 @@ You can edit and save the photos you want, make them into stickers, and use them
 Some advanced options for Samsung keyboards are provided.
 
 [Key Features]
+■ One UI 4.1.1
+- Make your own Split Keyboard (for One UI 4.1.1, Galaxy Fold ※ Samsung Keyboard v5.5.0.47 or later)
+   This is key feature for Galaxy Fold users. You can edit split keyboard via Keys Cafe.
+
 ■ One UI 4.1
 - My Sticker
 Keys Cafe launches my own sticker. Make images from Gallery into a unique sticker and express your meanings~
@@ -365,14 +369,14 @@ You can add your favorite images and create a motion effect. Use the various par
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20220617073032227_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20220802050638061_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.09.29]]></versionName>
-		<versionCode>100929000</versionCode> 
-		<realContentSize>13899637</realContentSize>
+		<versionName><![CDATA[1.0.09.32]]></versionName>
+		<versionCode>100932000</versionCode> 
+		<realContentSize>15121367</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
