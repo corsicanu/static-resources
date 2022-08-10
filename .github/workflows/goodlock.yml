@@ -15,18 +15,30 @@ jobs:
       max-parallel: 1
       matrix:
         include:
+          - device: "SM-S908B"
+            sdk: "33"
+            os: "13"
+            csc: "EUX"
+          - device: "SM-F936B"
+            sdk: "32"
+            os: "12L"
+            csc: "EUX"
           - device: "SM-G998B"
             sdk: "31"
             os: "12"
+            csc: "DBT"
           - device: "SM-N985F"
             sdk: "30"
             os: "11"
+            csc: "DBT"
           - device: "SM-N985F"
             sdk: "29"
             os: "10"
+            csc: "DBT"
           - device: "SM-G965F"
             sdk: "28"
             os: "9"
+            csc: "DBT"
 
     steps:
 
@@ -49,7 +61,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git pull origin ${{github.ref}} --ff-only
-          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=DBT&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE" > orig_goodlock${{ matrix.os }}.xml
+          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=${{ matrix.csc }}&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE" > orig_goodlock${{ matrix.os }}.xml
           git add orig_goodlock${{ matrix.os }}.xml
           git commit -m "orig_goodlock${{ matrix.os }}: update of $(date +'%d-%m-%Y %H:%M')"
 
