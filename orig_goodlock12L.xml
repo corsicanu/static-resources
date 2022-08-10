@@ -305,9 +305,9 @@ HomeUp is the extension edition of One UI Home.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.1.03.20]]></versionName>
-		<versionCode>410320000</versionCode> 
-		<realContentSize>5281886</realContentSize>
+		<versionName><![CDATA[4.2.05.28]]></versionName>
+		<versionCode>420528000</versionCode> 
+		<realContentSize>5924094</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
@@ -487,33 +487,6 @@ Provides a variety of screen shot options.(Some functions are available only on 
 * Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.
 
 <NICESHOT:1001>]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003084395</productID>
-		<productName><![CDATA[EdgeTouch]]></productName>
-		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20220530071454850_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.18]]></versionName>
-		<versionCode>111800000</versionCode> 
-		<realContentSize>3350478</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
-
-
-The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
-
-[Essential Access Rights]
-- Storage: Save image files to the device
-
-If your system software version is lower than Android 6.0, please update the software to configure App permissions.
-Previously allowed permissions can be reset on Apps menu in device settings after software update.
-
-#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003711875</productID>
