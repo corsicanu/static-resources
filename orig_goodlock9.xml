@@ -373,7 +373,7 @@ Permissions
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20220720050520420_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20220819063757481_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -383,9 +383,8 @@ Permissions
 		<realContentSize>96227744</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[[One UI 4]
-Upgrade the convenience of screen capture and screen recording functions.
-(※ Samsung capture v4.9.50 or higher can be supported )
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Upgrade the convenience of screen capture and screen recording functions.
+(※ Samsung capture v4.9.50 or higher, can be supported)
 
 [Before Q os]
 Provides a variety of screenshot options.
