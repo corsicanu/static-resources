@@ -91,7 +91,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20221021003409433_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20221021040235743_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -128,14 +128,14 @@ We are trying to make a fresh experience for users.
 - Chinese
 
 [Version Code]
-<SLIMINDICATOR:1003:5003>
+<SLIMINDICATOR:1003:6004>
 #2]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221021003425477_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221021040218476_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -171,7 +171,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
   : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
 
 [Version Code]
-<NOTISTAR:2001:5001>]]></description>
+<NOTISTAR:2001:6001>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003266196</productID>
