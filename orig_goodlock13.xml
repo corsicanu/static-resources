@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
@@ -91,14 +91,14 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20221018015249009_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20221021003409433_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.2.00.3]]></versionName>
-		<versionCode>520003000</versionCode> 
-		<realContentSize>12392752</realContentSize>
+		<versionName><![CDATA[6.1.05.20]]></versionName>
+		<versionCode>610520000</versionCode> 
+		<realContentSize>15233435</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
@@ -106,8 +106,12 @@ Provides advanced functions related to Samsung Keyboard.
 [Description]
 - Make a simple status bar.
 
-<One UI 3>
- ※ Theme in QuickPanel will be moved as one menu of ThemePark. Please wait until the official release of Good Lock 2021( early Feb 2021)
+<One UI 5>
+ ※ Support seconds clock on panel.
+ ※ Support date clock on indicator.
+
+<One UI 4>
+ ※ Improve app stability.
 
 [Detail Description]
 QuickStar is QuickPanel Star a SystemUI service app for early adopters.
@@ -131,14 +135,14 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221018015309910_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221021003425477_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.2.53.0]]></versionName>
-		<versionCode>425300000</versionCode> 
-		<realContentSize>5170574</realContentSize>
+		<versionName><![CDATA[5.1.08.0]]></versionName>
+		<versionCode>510800000</versionCode> 
+		<realContentSize>4584776</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
