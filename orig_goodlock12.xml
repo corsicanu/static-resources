@@ -106,8 +106,12 @@ Provides advanced functions related to Samsung Keyboard.
 [Description]
 - Make a simple status bar.
 
-<One UI 3>
- ※ Theme in QuickPanel will be moved as one menu of ThemePark. Please wait until the official release of Good Lock 2021( early Feb 2021)
+<One UI 5>
+ ※ Support seconds clock on panel.
+ ※ Support date clock on indicator.
+
+<One UI 4>
+ ※ Improve app stability.
 
 [Detail Description]
 QuickStar is QuickPanel Star a SystemUI service app for early adopters.
