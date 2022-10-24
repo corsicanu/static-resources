@@ -135,7 +135,7 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221021040218476_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221024032526297_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -177,14 +177,14 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20221018015057417_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20221024041459909_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.3.06]]></versionName>
-		<versionCode>530600000</versionCode> 
-		<realContentSize>13669415</realContentSize>
+		<versionName><![CDATA[6.0.12]]></versionName>
+		<versionCode>601200000</versionCode> 
+		<realContentSize>13673512</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
@@ -230,17 +230,53 @@ Floating Notification
 #6]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000004772683</productID>
-		<productName><![CDATA[Home Up]]></productName>
-		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20221018015120640_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<productID>000003202866</productID>
+		<productName><![CDATA[Clockface]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20221024013429219_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[13.0.00.47]]></versionName>
-		<versionCode>1300000047</versionCode> 
-		<realContentSize>23332808</realContentSize>
+		<versionName><![CDATA[2.2.62.0]]></versionName>
+		<versionCode>226200000</versionCode> 
+		<realContentSize>87613754</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 4.1]
+Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
+
+[One UI 3]
+Create a clockface to your taste. 
+You can select the clockface style and decorate it by adding text, images and GIFs.
+Enjoy your own clockface on Lockscreen and AOD
+ - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
+ - Apply the clockface on Lockscreen and AOD
+
+
+[Target]
+- Android 9/10/11 SAMSUNG devices.
+
+[Language]
+- Korean
+- English
+- Simplified Chinese
+#5]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000004772683</productID>
+		<productName><![CDATA[Home Up]]></productName>
+		<appId>com.samsung.android.app.homestar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20221024041430065_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[14.0.00.12]]></versionName>
+		<versionCode>1400000012</versionCode> 
+		<realContentSize>23945167</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
@@ -268,14 +304,14 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20221018015107288_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20221024032538139_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.1.03.20]]></versionName>
-		<versionCode>410320000</versionCode> 
-		<realContentSize>5281886</realContentSize>
+		<versionName><![CDATA[5.0.02.15]]></versionName>
+		<versionCode>500215000</versionCode> 
+		<realContentSize>13857516</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
@@ -301,21 +337,21 @@ HomeUp is the extension edition of One UI Home.
   : The navigation bar images and user settings are saved.
 
 [Version Code]
-<NAVSTAR:1001:6100>
+<NAVSTAR:1001:7000>
 #7]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20220617073132360_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20221024014751684_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.2.08]]></versionName>
-		<versionCode>120800000</versionCode> 
-		<realContentSize>59590007</realContentSize>
+		<versionName><![CDATA[1.2.27]]></versionName>
+		<versionCode>122700000</versionCode> 
+		<realContentSize>59598135</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create a moving wallpaper. 
@@ -337,14 +373,14 @@ You can add your favorite images and create a motion effect. Use the various par
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20220802050638061_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20221024041514754_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.09.32]]></versionName>
-		<versionCode>100932000</versionCode> 
-		<realContentSize>15121367</realContentSize>
+		<versionName><![CDATA[1.0.09.41]]></versionName>
+		<versionCode>100941000</versionCode> 
+		<realContentSize>15431574</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
@@ -459,14 +495,14 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20221018015025848_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20221024014706199_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.18]]></versionName>
-		<versionCode>111800000</versionCode> 
-		<realContentSize>3350478</realContentSize>
+		<versionName><![CDATA[1.1.21]]></versionName>
+		<versionCode>112100000</versionCode> 
+		<realContentSize>3360513</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
@@ -527,14 +563,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20220914080831718_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20221024013628936_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.6.25.0]]></versionName>
-		<versionCode>562500000</versionCode> 
-		<realContentSize>4907931</realContentSize>
+		<versionName><![CDATA[5.7.21.0]]></versionName>
+		<versionCode>572100000</versionCode> 
+		<realContentSize>4940811</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
@@ -590,16 +626,16 @@ Thank you.
 		</appInfo>
 	<appInfo>
 		<productID>000003206291</productID>
-		<productName><![CDATA[SoundAssistant]]></productName>
+		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20220823062707737_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20221024022458249_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.3.00.1]]></versionName>
-		<versionCode>430000001</versionCode> 
-		<realContentSize>21568216</realContentSize>
+		<versionName><![CDATA[4.4.00.1]]></versionName>
+		<versionCode>440000001</versionCode> 
+		<realContentSize>23903160</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
@@ -654,14 +690,14 @@ Features available since Android version 10
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20221018015209463_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20221024041446281_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.0.00.32]]></versionName>
-		<versionCode>300032000</versionCode> 
-		<realContentSize>64610116</realContentSize>
+		<versionName><![CDATA[5.0.00.3]]></versionName>
+		<versionCode>500003000</versionCode> 
+		<realContentSize>64524457</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create new Lockscreen style
