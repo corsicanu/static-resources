@@ -5,6 +5,52 @@
 	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
+		<productID>000006540978</productID>
+		<productName><![CDATA[Camera Assistant]]></productName>
+		<appId>com.samsung.android.app.cameraassistant</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20221024054518247_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.00.4]]></versionName>
+		<versionCode>100004000</versionCode> 
+		<realContentSize>8417110</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
+[Description]
+It provides ON/OFF features for the following features:
+- Auto HDR
+  Capture more details in the bright and dark areas of your pictures and videos.
+- Soften pictures  
+  Smooth out sharp edges and textures in Photo mode pictures.
+- Auto lens switching
+  Let the camera pick the best lens based on the zoom, lighting, and distance to the subject.
+- Video recording in Photo mode
+  Touch and hold the Shutter button to record videos in Photo mode.
+- Faster shutter
+  Speed up the shutter by capturing fewer frames. This may decrease picture quality.
+- Clean preview on HDMI displays
+  Show the camera preview without settings or buttons on HDMI-connected displays.
+
+The following features are also available.  
+- Number of pictures after timer 
+- Camera timeout
+
+[Target]
+ - This application is available in Samsung Device of Android 13 or higher.
+
+[Language]
+- English
+- Korean
+- Chinese Simplified
+- French
+...
+
+#GoodLockFriends #10]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
