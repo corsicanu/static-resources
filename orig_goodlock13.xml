@@ -137,7 +137,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20221021040235743_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20221025071800809_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -181,7 +181,7 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221024032526297_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20221025071747753_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -481,14 +481,14 @@ Permissions
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20221018015226692_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20221025071855581_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.14.1]]></versionName>
-		<versionCode>111400001</versionCode> 
-		<realContentSize>26094917</realContentSize>
+		<versionName><![CDATA[2.0.05.3]]></versionName>
+		<versionCode>200500003</versionCode> 
+		<realContentSize>27517689</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Add your uniqueness to S pen with Pentastic!
@@ -510,18 +510,27 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20220916045905106_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20221025072012655_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.0.06]]></versionName>
-		<versionCode>200600000</versionCode> 
-		<realContentSize>13632446</realContentSize>
+		<versionName><![CDATA[2.1.02]]></versionName>
+		<versionCode>210200000</versionCode> 
+		<realContentSize>16364058</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Upgrade the convenience of screen capture and screen recording functions.
-(※ Samsung capture v4.9.50 or higher, can be supported)
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[[One UI 5]
+○ Screen capture : Delete the "Do not copy image to the clipboard when saving" setting
+                         (Do not support saving the clipboard when capturing from One UI 5)
+○ Screen recording : Delete the "Selfie video options -> Selfie video size" setting
+                           (※ Please use the settings in "Settings -> Advanced features -> Screenshots and screen recorder" of the device.)
+
+[One UI 4]
+* Each menu offered will appear differently on the specifications supported by the device.
+○ Screen capture : Provides settings such as activating the delete button immediately when capturing the screen, not saving it to the clipboard, and turning off the magnet effect after capturing.
+
+○ Screen recording : You can set various backgrounds when shooting self-videos, and you can automatically run the Do Not Disturb mode when recording screens.
 
 [Before Q os]
 Provides a variety of screenshot options.
@@ -533,9 +542,7 @@ Provides a variety of screen shot options.(Some functions are available only on 
 - Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
 - Screen Recording: Provides screen recording function.
 
-* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.
-
-<NICESHOT:1001>]]></description>
+* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003084395</productID>
