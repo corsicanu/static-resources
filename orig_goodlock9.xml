@@ -148,9 +148,9 @@ Floating Notification
 		</appInfo>
 	<appInfo>
 		<productID>000003202866</productID>
-		<productName><![CDATA[Clockface]]></productName>
+		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20230109065153371_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20230111071534772_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -161,6 +161,9 @@ Floating Notification
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 5.0]
+Support Tablet ( From Galaxy Tab S8)
 
 [ONE UI 4.1]
 Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
