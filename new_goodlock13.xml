@@ -66,14 +66,14 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20221114101056298_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20230208054321748_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.00.5]]></versionName>
-		<versionCode>100005000</versionCode> 
-		<realContentSize>8427863</realContentSize>
+		<versionName><![CDATA[1.1.00.3]]></versionName>
+		<versionCode>110003000</versionCode> 
+		<realContentSize>8666654</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
@@ -81,20 +81,23 @@
 It provides ON/OFF features for the following features:
 - Auto HDR
   Capture more details in the bright and dark areas of your pictures and videos.
-- Soften pictures  
+- Picture softening
   Smooth out sharp edges and textures in Photo mode pictures.
 - Auto lens switching
   Let the camera pick the best lens based on the zoom, lighting, and distance to the subject.
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
-- Faster shutter
-  Speed up the shutter by capturing fewer frames. This may decrease picture quality.
+- Capture speed
+  Prioritize quality for the best pictures. Prioritize speed to capture pictures as fast as possible. Balance speed and quality for faster capturing without sacrificing too much quality.
+- Quick tap shutter
+  Take pictures as soon as your finger touches the Shutter button instead of when you lift it off. You can still swipe or press and hold the Shutter button to capture GIFs, burst shots, and videos, but a picture will be taken too.
 - Clean preview on HDMI displays
   Show the camera preview without settings or buttons on HDMI-connected displays.
 
 The following features are also available.  
-- Number of pictures after timer 
+- Timer multi-photo options
 - Camera timeout
+- Dim screen while recording
 
 [Language]
 - English
@@ -339,9 +342,9 @@ Floating Notification
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.2.68.0]]></versionName>
-		<versionCode>226800000</versionCode> 
-		<realContentSize>87621946</realContentSize>
+		<versionName><![CDATA[2.3.03.0]]></versionName>
+		<versionCode>230300000</versionCode> 
+		<realContentSize>94534361</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
@@ -675,7 +678,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20230116082724292_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20230206034809423_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -740,7 +743,7 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20221221075210433_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20230206012144159_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
