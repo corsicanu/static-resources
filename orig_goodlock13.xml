@@ -380,14 +380,14 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20230323005353148_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20230418065832422_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.1.03.26]]></versionName>
-		<versionCode>510326000</versionCode> 
-		<realContentSize>13914692</realContentSize>
+		<versionName><![CDATA[5.1.03.32]]></versionName>
+		<versionCode>510332000</versionCode> 
+		<realContentSize>13918788</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
@@ -721,7 +721,7 @@ Thank you.
 		<versionName><![CDATA[4.4.00.5]]></versionName>
 		<versionCode>440000005</versionCode> 
 		<realContentSize>23943165</realContentSize>
-		<sellerName><![CDATA[Samsung Electronics Co Ltd]]></sellerName>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
 
