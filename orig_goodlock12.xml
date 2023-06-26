@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>12</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
@@ -86,148 +86,6 @@ Provides advanced functions related to Samsung Keyboard.
 ※Keys Cafe works from Samsung keyboard version 5.1.05.9
 
 #GoodLockFriends #0]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003084407</productID>
-		<productName><![CDATA[QuickStar]]></productName>
-		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20230524070709271_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.4.08.45]]></versionName>
-		<versionCode>640845000</versionCode> 
-		<realContentSize>15320543</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
-
-[Description]
-- Make a simple status bar.
-
-<One UI 5>
- ※ Support seconds clock on panel.
- ※ Support date clock on indicator.
-
-<One UI 4>
- ※ Improve app stability.
-
-[Detail Description]
-QuickStar is QuickPanel Star a SystemUI service app for early adopters.
-QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
-By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
-We are trying to make a fresh experience for users.
-
-[Target]
-- Android 8 or higher devices
-
-[Language]
-- Korean
-- English
-- Chinese
-
-[Version Code]
-<SLIMINDICATOR:1003:6004>
-#2]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000004085658</productID>
-		<productName><![CDATA[NotiStar]]></productName>
-		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20230524070618755_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.1.24.0]]></versionName>
-		<versionCode>512400000</versionCode> 
-		<realContentSize>4584776</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
-
-[Description]
-NotiStar is new notification management service
-By using this, You can manage many of the notifications you have received so far
-In addition, you can search for delivered notifications or categorize them as you like.
-All of these notifications are always there before you delete them.
-We are trying to make fresh experience for users.
-
-Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is created on the home screen
-
-[Target]
-- Android R OS 11.0 SAMSUNG devices.
-- Android Q OS 10.0 SAMSUNG devices.
-- Android P OS 9.0 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Chinese
-
-[Optional permission]
-- Storage (Optional)
-  : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
-
-[Version Code]
-<NOTISTAR:2001:6001>]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003266196</productID>
-		<productName><![CDATA[MultiStar]]></productName>
-		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20230524070651079_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.4.00]]></versionName>
-		<versionCode>540000000</versionCode> 
-		<realContentSize>13669415</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
-
-[Description]
-[ One UI 4]
-Improved usability on the cover screen of Flip 3. (※ Always On Display  v7.1.30.4 or later)
--Cover launcher widget
- Launch game apps or some media apps directly from the cover screen. (Flip 3 target, you can add up to 5 apps)
-
-Use Multi window without pausing
-- You can use several apps at the same time on the Multi window mode without stopping.
-
-[One UI 3 (Android 11)]
-Immersive Mode 
-- Hide status bar and navigation bar in split screen view
- 
-The app size stretch to camera hole 
-- Open the app by widening the camera area
-
-[One UI 2 (Android 10)]
-Enable Multi window to all apps 
-- All apps can be launched in a Popup window and split screen.
-
-[One UI 1 (Android 9)]
-Ghost Mode 
-- When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
-
-Floating Notification 
-- You can receive notifications in the form of icons.
-
-
-[Target]
-- Android O os 8.1~  SAMSUNG devices.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Version Code]
-<MULTISTAR:1000:6001>
-#6]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -465,44 +323,6 @@ Set double tap to shortcut by pressing S Pen
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000003926817</productID>
-		<productName><![CDATA[Nice Shot]]></productName>
-		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20230524070629640_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.0.06]]></versionName>
-		<versionCode>200600000</versionCode> 
-		<realContentSize>13632446</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[[One UI 5]
-○ Screen capture : Delete the "Do not copy image to the clipboard when saving" setting
-                         (Do not support saving the clipboard when capturing from One UI 5)
-○ Screen recording : Delete the "Selfie video options -> Selfie video size" setting
-                           (※ Please use the settings in "Settings -> Advanced features -> Screenshots and screen recorder" of the device.)
-
-[One UI 4]
-* Each menu offered will appear differently on the specifications supported by the device.
-○ Screen capture : Provides settings such as activating the delete button immediately when capturing the screen, not saving it to the clipboard, and turning off the magnet effect after capturing.
-
-○ Screen recording : You can set various backgrounds when shooting self-videos, and you can automatically run the Do Not Disturb mode when recording screens.
-
-[Before Q os]
-Provides a variety of screenshot options.
-(Some functions are available only on smart capture support devices.)
-Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
-- Save Format: Change the screen shot format to PNG or JPG.
-- Automatic removal of system UI: Remove indicator and navigation bar and save.
-- #Tag: We recommend Tag for easy classification after smart capture.
-- Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
-- Screen Recording: Provides screen recording function.
-
-* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
-		</appInfo>
-	<appInfo>
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
@@ -635,68 +455,6 @@ Enjoy the convenience of gestures on your phone and tablet with this app.
 Thank you.
 
 #GoodLockFriends #5]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003206291</productID>
-		<productName><![CDATA[Sound Assistant]]></productName>
-		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20230606044706454_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[4.4.00.5]]></versionName>
-		<versionCode>440000005</versionCode> 
-		<realContentSize>23943165</realContentSize>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
-
-The sound utility available on the galaxy series
-Provides various convenience functions related to audio
-※ How to use : https://youtu.be/Z5mrB4ryKjE
-※ Some devices may not be supported
-
-- Allow you to control the media volume instead of ringtone when pressing the volume keys
-- Support individual application volume (You can control the volume of music and games differently)  
-- 150 steps of fine volume and support Floating Equalizer(EQ)
-- Create and activate personalize sound settings
-- Support mono audio and left/right balance
-- Touch the app volume icon in the floating dialog to play/pause and long click to enter the app.
-
-The following features are available only if the Samsung Experience version of the smartphone on which Sound Assistant is installed is 8.5 or later
-※ How to check Samsung Experience(OneUI) Version : Run SoundAssistant - Top right menu - About
-- Default volume step when pressing volume button can now be changed
-- Audio output of an application can now be switched between Bluetooth or speaker via floating volume dialog
-- EQ settings can now be saved and shared
-
-Features available since Samsung Experience version 9.0
-- Ability to swap left and right sounds on headphones
-- Ability to hear ringtone, notification, and alarm sounds only through headphones when headphone is connected
-
-Features available since Samsung Experience version 10.1
-- Favorite media app : Select an app to control music when you press multimedia keys.
-
-Features available since OneUI version 1.5
-- Supports concert hall effect
-- Adjust previous/next song with volume key
-- When an earphone or Bluetooth is connected, you can select where the ringtone, notification, and alarm sound will be played.
-
-Features available since Android version 10
-- Provides a volume panel of expanded features that can change the volume and output devices of each app
-- Provides panel form theme (Sero / Classic)  
-- Provides panel color theme 
-- Renewed EQ panel design 
-- Dual app sound is extended to multi sound so all apps can be played simultaneously
--Provide vibration effect of the volume panel theme slider according to whether the vibration feedback of the -default setting app is activated
--Fix the bug that do not disappear from the existing volume panel when rebooting device
--Apps that appear once in the app volume slider are maintained for a certain period of time even if they do not sound
--Add an option that reverse the ability to switch to the previous/next song through volume key long press
--More sound effects menu
--Fixed the issue that the panel does not disappear while using "Classic" volume panel
--Fixed to rotate the screen based on user settings
-
-#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003002072</productID>
