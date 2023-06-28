@@ -32,14 +32,14 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20230330042206275_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20230628093157661_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.01.0]]></versionName>
-		<versionCode>110100000</versionCode> 
-		<realContentSize>8714170</realContentSize>
+		<versionName><![CDATA[1.1.02.2]]></versionName>
+		<versionCode>110202000</versionCode> 
+		<realContentSize>8753746</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
@@ -51,6 +51,8 @@ It provides ON/OFF features for the following features:
   Smooth out sharp edges and textures in Photo mode pictures.
 - Auto lens switching
   Let the camera pick the best lens based on the zoom, lighting, and distance to the subject.
+- Adaptive pixel
+  Reduce noise in low light shots by combining multiple lower-resolution frames into the final high-resolution picture.
 - Quick tap shutter
   Take pictures as soon as your finger touches the Shutter button instead of when you lift it off. You can still swipe or press and hold the Shutter button to capture GIFs, burst shots, and videos, but a picture will be taken too.
 - Prioritize focus over speed
