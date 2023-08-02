@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006559401</productID>
@@ -336,9 +336,9 @@ HomeUp is the extension edition of One UI Home.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.2.04.48]]></versionName>
-		<versionCode>520448000</versionCode> 
-		<realContentSize>14074492</realContentSize>
+		<versionName><![CDATA[5.1.03.34]]></versionName>
+		<versionCode>510334000</versionCode> 
+		<realContentSize>13926983</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
