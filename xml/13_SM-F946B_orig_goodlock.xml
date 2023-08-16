@@ -58,19 +58,22 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20230727043611965_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20230816060849247_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.02.2]]></versionName>
-		<versionCode>110202000</versionCode> 
-		<realContentSize>8753746</realContentSize>
+		<versionName><![CDATA[1.1.03.1]]></versionName>
+		<versionCode>110301000</versionCode> 
+		<realContentSize>8786174</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
+
 [Description]
 It provides ON/OFF features for the following features:
+- Optical quality crop zoom
+  Add a 2x zoom option to Camera. The zoom is cropped from the high resolution sensor, so it's as good as an optical lens.
 - Auto HDR
   Capture more details in the bright and dark areas of your pictures and videos.
 - Picture softening
@@ -280,13 +283,13 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20230731081020652_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20230816091451606_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.5.10]]></versionName>
-		<versionCode>651000000</versionCode> 
+		<versionName><![CDATA[6.6.01]]></versionName>
+		<versionCode>660100000</versionCode> 
 		<realContentSize>16253209</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -410,13 +413,13 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20230810044656787_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20230816020031844_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.2.04.48]]></versionName>
-		<versionCode>520448000</versionCode> 
+		<versionName><![CDATA[5.2.04.50]]></versionName>
+		<versionCode>520450000</versionCode> 
 		<realContentSize>14074492</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
