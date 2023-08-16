@@ -32,19 +32,22 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20230727043611965_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20230816060849247_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.02.2]]></versionName>
-		<versionCode>110202000</versionCode> 
-		<realContentSize>8753746</realContentSize>
+		<versionName><![CDATA[1.1.03.1]]></versionName>
+		<versionCode>110301000</versionCode> 
+		<realContentSize>8786174</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
+
 [Description]
 It provides ON/OFF features for the following features:
+- Optical quality crop zoom
+  Add a 2x zoom option to Camera. The zoom is cropped from the high resolution sensor, so it's as good as an optical lens.
 - Auto HDR
   Capture more details in the bright and dark areas of your pictures and videos.
 - Picture softening
