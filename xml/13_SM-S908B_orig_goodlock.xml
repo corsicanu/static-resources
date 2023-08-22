@@ -123,7 +123,7 @@ English, Korean, Chinese(TBD)
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20230818013242345_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20230822081719365_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -392,9 +392,9 @@ HomeUp is the extension edition of One UI Home.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.1.03.34]]></versionName>
-		<versionCode>510334000</versionCode> 
-		<realContentSize>13926983</realContentSize>
+		<versionName><![CDATA[5.2.04.50]]></versionName>
+		<versionCode>520450000</versionCode> 
+		<realContentSize>14074492</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
