@@ -14,6 +14,10 @@ jobs:
       max-parallel: 1
       matrix:
         include:
+          - device: "SM-S918B"
+            sdk: "34"
+            os: "14"
+            csc: "EUX"
           - device: "SM-F946B"
             sdk: "33"
             os: "13"
