@@ -426,17 +426,17 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20240326015904039_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20240329110930285_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.1.05.44]]></versionName>
-		<versionCode>610544000</versionCode> 
-		<realContentSize>15055932</realContentSize>
+		<versionName><![CDATA[6.1.05.45]]></versionName>
+		<versionCode>610545000</versionCode> 
+		<realContentSize>15060028</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create your own navigation bar.
 
 [Descriptions]
   - You can show and hide the navigation bar.
