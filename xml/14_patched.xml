@@ -70,7 +70,7 @@
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
 [Description]
 It provides ON/OFF features for the following features:
 - Zoom shortcuts
@@ -296,7 +296,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20241204091808819_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20241227015930725_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -346,7 +346,7 @@ Floating Notification
 - Chinese
 
 [Version Code]
-<MULTISTAR:1000:7001>
+<MULTISTAR:1000:9001>
 #6]]></description>
 		</appInfo>
 	<appInfo>
@@ -511,7 +511,7 @@ Storage(Required) : When creating a wallpaper, access to storage is made in orde
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20241210035556851_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20241227013847434_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
