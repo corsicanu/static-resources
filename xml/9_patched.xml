@@ -183,7 +183,7 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20260206040830369_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20260212024920177_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -222,7 +222,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
   : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
 
 [Version Code]
-<NOTISTAR:2001:9001>
+<NOTISTAR:2001:9002>
 #GoodLockFriends]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
@@ -817,7 +817,7 @@ Provide custom effect creation option.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260209050205658_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260212011334782_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
