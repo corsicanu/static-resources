@@ -301,6 +301,36 @@ Floating notifications
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008862497</productID>
+		<productName><![CDATA[LockStar]]></productName>
+		<appId>com.samsung.systemui.lockstar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008862497/IconImage_20260601034314079_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[3.0.00.32]]></versionName>
+		<versionCode>300032000</versionCode> 
+		<realContentSize>64610116</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Design your new lock screen.
+Freely arrange clocks, quick access apps, and widgets to create your own unique style.
+
+* Available on Samsung devices running Android 8.0 (Oreo) or later.
+* May not be supported on certain Galaxy devices.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+<LOCKSTAR:1003:4004>#1]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008873407</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
@@ -560,7 +590,7 @@ Photos and Videos : Access images and videos for wallpaper creation.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260428091843471_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260601030419635_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -820,37 +850,6 @@ Provide custom effect creation option.
 - More sound effects menu
 
 #GoodLockFriends]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003002072</productID>
-		<productName><![CDATA[LockStar]]></productName>
-		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260421015041273_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.0.00.32]]></versionName>
-		<versionCode>300032000</versionCode> 
-		<realContentSize>64610116</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create new Lockscreen style.
-
-You can decorate your lockscreen wallpapers more beautiful.
-
-[Target]
-- Android O os 8.0 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Simplified Chinese
-- Japanese
-
-<LOCKSTAR:1003:4004>#1]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<serverType>PRD</serverType>
