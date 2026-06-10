@@ -301,6 +301,48 @@ Floating notifications
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008851503</productID>
+		<productName><![CDATA[NavStar]]></productName>
+		<appId>com.samsung.systemui.navillera</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008851503/IconImage_20260610030124057_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.1.05.45]]></versionName>
+		<versionCode>610545000</versionCode> 
+		<realContentSize>15060028</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Create your own navigation bar.
+
+[Description]
+- You can hide or show the navigation bar.
+- You can change the color of the navigation bar.
+- Add useful buttons to the navigation bar.
+- You can change the icon shape to any image you like.
+- If you are using gesture mode, you can adjust the hint background, handle length, and color.
+
+[Supported Models]
+- Application available on SAMSUNG devices with Android O OS 8.1 or higher.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Required Permissions]
+- Storage (Required)
+: Stores navigation bar images and user settings.
+
+[Version Code]
+<NAVSTAR:1001:11000>
+#7]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008862507</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
@@ -702,48 +744,6 @@ Enjoy your own clockface on Lockscreen and AOD
 - English
 - Simplified Chinese
 #5]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003488383</productID>
-		<productName><![CDATA[NavStar]]></productName>
-		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20260421015133158_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.1.05.45]]></versionName>
-		<versionCode>610545000</versionCode> 
-		<realContentSize>15060028</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create your own navigation bar.
-
-[Descriptions]
-  - You can show and hide the navigation bar.
-
-  - You can change the color of the navigation bar.
-
-  - You can add useful buttons to the navigation bar.
-
-  - You can change the icon of the navigation bar to your favorite image.
-
-   - If you are using gesture mode, you can change the hint background, handle length, and color.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Required permission]
--  Storage (Required)
-  : The navigation bar images and user settings are saved.
-
-[Version Code]
-<NAVSTAR:1001:11000>
-#7]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
